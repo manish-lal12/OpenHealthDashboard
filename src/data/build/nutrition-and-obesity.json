@@ -1,0 +1,1366 @@
+{
+  "title": "Obesity, Inactivity, and Diabetes",
+  "description": "Adult obesity is at a record high, with 32% of American adults measuring a BMI of 30 or higher. This correlates with the number 1 killer in America, cardiovascular disease. How do these rates compare across America and across the globe?",
+  "illustration": "",
+  "keyIndicators": [
+    {
+      "title": "Obesity incidence",
+      "stat": 32,
+      "abbreviation": "%",
+      "description": "of adults were obese in 2017",
+      "citations": [
+        "“Obesity.” <em>USAFACTS</em>, 2018. https://usafacts.org/metrics/31777?year=2017",
+        "Obesity, as defined by Centers for Disease Control and Prevention in the Behavioral Risk Factor Surveillance System.",
+        " “Chilhood Obesity Facts.” <em>Centers for Disease Control and Prevention</em>. https://www.cdc.gov/obesity/data/childhood.html",
+        "Obesity Update 2017.” <em>OECD</em>. https://www.oecd.org/health/obesity-update.htm"
+      ],
+      "lensData": [
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "xAxisLabel": null,
+          "yAxisLabel": "obesity rate (%)",
+          "values": [
+            {
+              "label": "U.S.",
+              "values": [
+                {
+                  "year": 1996,
+                  "value": 17,
+                  "id": "1et3zhr79m9y7fs68"
+                },
+                {
+                  "year": 1997,
+                  "value": 17,
+                  "id": "1et3zhr79m9y7fs69"
+                },
+                {
+                  "year": 1998,
+                  "value": 18,
+                  "id": "1et3zhr79m9y7fs6a"
+                },
+                {
+                  "year": 1999,
+                  "value": 20,
+                  "id": "1et3zhr79m9y7fs6b"
+                },
+                {
+                  "year": 2000,
+                  "value": 20,
+                  "id": "1et3zhr79m9y7fs6c"
+                },
+                {
+                  "year": 2001,
+                  "value": 21,
+                  "id": "1et3zhr79m9y7fs6d"
+                },
+                {
+                  "year": 2002,
+                  "value": 22,
+                  "id": "1et3zhr79m9y7fs6e"
+                },
+                {
+                  "year": 2003,
+                  "value": 23,
+                  "id": "1et3zhr79m9y7fs6f"
+                },
+                {
+                  "year": 2004,
+                  "value": 23,
+                  "id": "1et3zhr79m9y7fs6g"
+                },
+                {
+                  "year": 2005,
+                  "value": 24,
+                  "id": "1et3zhr79m9y7fs6h"
+                },
+                {
+                  "year": 2006,
+                  "value": 25,
+                  "id": "1et3zhr79m9y7fs6i"
+                },
+                {
+                  "year": 2007,
+                  "value": 26,
+                  "id": "1et3zhr79m9y7fs6j"
+                },
+                {
+                  "year": 2008,
+                  "value": 27,
+                  "id": "1et3zhr79m9y7fs6k"
+                },
+                {
+                  "year": 2009,
+                  "value": 27,
+                  "id": "1et3zhr79m9y7fs6l"
+                },
+                {
+                  "year": 2010,
+                  "value": 28,
+                  "id": "1et3zhr79m9y7fs6m"
+                },
+                {
+                  "year": 2011,
+                  "value": 28,
+                  "id": "1et3zhr79m9y7fs6n"
+                },
+                {
+                  "year": 2012,
+                  "value": 28,
+                  "id": "1et3zhr79m9y7fs6o"
+                },
+                {
+                  "year": 2013,
+                  "value": 29,
+                  "id": "1et3zhr79m9y7fs6p"
+                },
+                {
+                  "year": 2014,
+                  "value": 30,
+                  "id": "1et3zhr79m9y7fs6q"
+                },
+                {
+                  "year": 2015,
+                  "value": 30,
+                  "id": "1et3zhr79m9y7fs6r"
+                },
+                {
+                  "year": 2016,
+                  "value": 30,
+                  "id": "1et3zhr79m9y7fs6s"
+                },
+                {
+                  "year": 2017,
+                  "value": 32,
+                  "id": "1et3zhr79m9y7fs6t"
+                }
+              ],
+              "id": "1et3zhr79m9y7fs67"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs66"
+        },
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "obesity rate (%)",
+          "values": [
+            {
+              "state": "Hawaii",
+              "value": 24,
+              "id": "1et3zhr79m9y7fs6v"
+            },
+            {
+              "state": "Alaska",
+              "value": 34,
+              "id": "1et3zhr79m9y7fs6w"
+            },
+            {
+              "state": "New Mexico",
+              "value": 28,
+              "id": "1et3zhr79m9y7fs6x"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 26,
+              "id": "1et3zhr79m9y7fs6y"
+            },
+            {
+              "state": "Iowa",
+              "value": 36,
+              "id": "1et3zhr79m9y7fs6z"
+            },
+            {
+              "state": "Colorado",
+              "value": 23,
+              "id": "1et3zhr79m9y7fs70"
+            },
+            {
+              "state": "Ohio",
+              "value": 34,
+              "id": "1et3zhr79m9y7fs71"
+            },
+            {
+              "state": "Missouri",
+              "value": 33,
+              "id": "1et3zhr79m9y7fs72"
+            },
+            {
+              "state": "Wyoming",
+              "value": 29,
+              "id": "1et3zhr79m9y7fs73"
+            },
+            {
+              "state": "South Carolina",
+              "value": 34,
+              "id": "1et3zhr79m9y7fs74"
+            },
+            {
+              "state": "Utah",
+              "value": 25,
+              "id": "1et3zhr79m9y7fs75"
+            },
+            {
+              "state": "Florida",
+              "value": 28,
+              "id": "1et3zhr79m9y7fs76"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 28,
+              "id": "1et3zhr79m9y7fs77"
+            },
+            {
+              "state": "Maine",
+              "value": 29,
+              "id": "1et3zhr79m9y7fs78"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs79"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 30,
+              "id": "1et3zhr79m9y7fs7a"
+            },
+            {
+              "state": "Texas",
+              "value": 33,
+              "id": "1et3zhr79m9y7fs7b"
+            },
+            {
+              "state": "Washington",
+              "value": 28,
+              "id": "1et3zhr79m9y7fs7c"
+            },
+            {
+              "state": "Georgia",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs7d"
+            },
+            {
+              "state": "Alabama",
+              "value": 36,
+              "id": "1et3zhr79m9y7fs7e"
+            },
+            {
+              "state": "New Jersey",
+              "value": 27,
+              "id": "1et3zhr79m9y7fs7f"
+            },
+            {
+              "state": "Maryland",
+              "value": 31,
+              "id": "1et3zhr79m9y7fs7g"
+            },
+            {
+              "state": "Indiana",
+              "value": 34,
+              "id": "1et3zhr79m9y7fs7h"
+            },
+            {
+              "state": "California",
+              "value": 25,
+              "id": "1et3zhr79m9y7fs7i"
+            },
+            {
+              "state": "North Dakota",
+              "value": 33,
+              "id": "1et3zhr79m9y7fs7j"
+            },
+            {
+              "state": "Mississippi",
+              "value": 37,
+              "id": "1et3zhr79m9y7fs7k"
+            },
+            {
+              "state": "Louisiana",
+              "value": 36,
+              "id": "1et3zhr79m9y7fs7l"
+            },
+            {
+              "state": "District of Columbia",
+              "value": 23,
+              "id": "1et3zhr79m9y7fs7m"
+            },
+            {
+              "state": "Pennsylvania",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs7n"
+            },
+            {
+              "state": "Nevada",
+              "value": 27,
+              "id": "1et3zhr79m9y7fs7o"
+            },
+            {
+              "state": "South Dakota",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs7p"
+            },
+            {
+              "state": "Vermont",
+              "value": 28,
+              "id": "1et3zhr79m9y7fs7q"
+            },
+            {
+              "state": "Idaho",
+              "value": 29,
+              "id": "1et3zhr79m9y7fs7r"
+            },
+            {
+              "state": "Arizona",
+              "value": 30,
+              "id": "1et3zhr79m9y7fs7s"
+            },
+            {
+              "state": "New York",
+              "value": 26,
+              "id": "1et3zhr79m9y7fs7t"
+            },
+            {
+              "state": "Michigan",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs7u"
+            },
+            {
+              "state": "Kansas",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs7v"
+            },
+            {
+              "state": "Connecticut",
+              "value": 27,
+              "id": "1et3zhr79m9y7fs7w"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 37,
+              "id": "1et3zhr79m9y7fs7x"
+            },
+            {
+              "state": "Montana",
+              "value": 25,
+              "id": "1et3zhr79m9y7fs7y"
+            },
+            {
+              "state": "West Virginia",
+              "value": 38,
+              "id": "1et3zhr79m9y7fs7z"
+            },
+            {
+              "state": "Illinois",
+              "value": 31,
+              "id": "1et3zhr79m9y7fs80"
+            },
+            {
+              "state": "Arkansas",
+              "value": 35,
+              "id": "1et3zhr79m9y7fs81"
+            },
+            {
+              "state": "North Carolina",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs82"
+            },
+            {
+              "state": "Minnesota",
+              "value": 28,
+              "id": "1et3zhr79m9y7fs83"
+            },
+            {
+              "state": "Kentucky",
+              "value": 34,
+              "id": "1et3zhr79m9y7fs84"
+            },
+            {
+              "state": "Delaware",
+              "value": 32,
+              "id": "1et3zhr79m9y7fs85"
+            },
+            {
+              "state": "Oregon",
+              "value": 29,
+              "id": "1et3zhr79m9y7fs86"
+            },
+            {
+              "state": "Nebraska",
+              "value": 33,
+              "id": "1et3zhr79m9y7fs87"
+            },
+            {
+              "state": "Tennessee",
+              "value": 33,
+              "id": "1et3zhr79m9y7fs88"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs6u"
+        },
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "bar",
+          "title": null,
+          "yAxisLabel": "obesity rate (%)",
+          "xAxisLabel": "age",
+          "values": [
+            {
+              "name": "2–19",
+              "value": 18.5,
+              "id": "1et3zhr79m9y7fs8a"
+            },
+            {
+              "name": "20–39",
+              "value": 35.7,
+              "id": "1et3zhr79m9y7fs8b"
+            },
+            {
+              "name": "40–59",
+              "value": 42.8,
+              "id": "1et3zhr79m9y7fs8c"
+            },
+            {
+              "name": "over 60",
+              "value": 41,
+              "id": "1et3zhr79m9y7fs8d"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs89"
+        },
+        {
+          "lensType": "global",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "xAxisLabel": "obesity rate (%) in 2016",
+          "values": [
+            {
+              "name": "United States",
+              "value": 40,
+              "id": "1et3zhr79m9y7fs8f"
+            },
+            {
+              "name": "Chile",
+              "value": 34.4,
+              "id": "1et3zhr79m9y7fs8g"
+            },
+            {
+              "name": "Mexico",
+              "value": 33.3,
+              "id": "1et3zhr79m9y7fs8h"
+            },
+            {
+              "name": "New Zealand",
+              "value": 32.2,
+              "id": "1et3zhr79m9y7fs8i"
+            },
+            {
+              "name": "Hungary",
+              "value": 30,
+              "id": "1et3zhr79m9y7fs8j"
+            },
+            {
+              "name": "Turkey",
+              "value": 28.8,
+              "id": "1et3zhr79m9y7fs8k"
+            },
+            {
+              "name": "Portugal",
+              "value": 28.7,
+              "id": "1et3zhr79m9y7fs8l"
+            },
+            {
+              "name": "Canada",
+              "value": 28.1,
+              "id": "1et3zhr79m9y7fs8m"
+            },
+            {
+              "name": "Australia",
+              "value": 27.9,
+              "id": "1et3zhr79m9y7fs8n"
+            },
+            {
+              "name": "Finland",
+              "value": 26.8,
+              "id": "1et3zhr79m9y7fs8o"
+            },
+            {
+              "name": "United Kingdom",
+              "value": 26.2,
+              "id": "1et3zhr79m9y7fs8p"
+            },
+            {
+              "name": "Germany",
+              "value": 23.6,
+              "id": "1et3zhr79m9y7fs8q"
+            },
+            {
+              "name": "Latvia",
+              "value": 23.2,
+              "id": "1et3zhr79m9y7fs8r"
+            },
+            {
+              "name": "Ireland",
+              "value": 23,
+              "id": "1et3zhr79m9y7fs8s"
+            },
+            {
+              "name": "Luxembourg",
+              "value": 22.6,
+              "id": "1et3zhr79m9y7fs8t"
+            },
+            {
+              "name": "Estonia",
+              "value": 19.2,
+              "id": "1et3zhr79m9y7fs8u"
+            },
+            {
+              "name": "Slovenia",
+              "value": 19.2,
+              "id": "1et3zhr79m9y7fs8v"
+            },
+            {
+              "name": "Iceland",
+              "value": 19,
+              "id": "1et3zhr79m9y7fs8w"
+            },
+            {
+              "name": "Israel",
+              "value": 18.8,
+              "id": "1et3zhr79m9y7fs8x"
+            },
+            {
+              "name": "Czech Republic",
+              "value": 18.7,
+              "id": "1et3zhr79m9y7fs8y"
+            },
+            {
+              "name": "Belgium",
+              "value": 18.6,
+              "id": "1et3zhr79m9y7fs8z"
+            },
+            {
+              "name": "France",
+              "value": 17,
+              "id": "1et3zhr79m9y7fs90"
+            },
+            {
+              "name": "Greece",
+              "value": 17,
+              "id": "1et3zhr79m9y7fs91"
+            },
+            {
+              "name": "Denmark",
+              "value": 16.8,
+              "id": "1et3zhr79m9y7fs92"
+            },
+            {
+              "name": "Poland",
+              "value": 16.7,
+              "id": "1et3zhr79m9y7fs93"
+            },
+            {
+              "name": "Spain",
+              "value": 16.7,
+              "id": "1et3zhr79m9y7fs94"
+            },
+            {
+              "name": "Lithuania",
+              "value": 16.6,
+              "id": "1et3zhr79m9y7fs95"
+            },
+            {
+              "name": "Slovak Republic",
+              "value": 16.3,
+              "id": "1et3zhr79m9y7fs96"
+            },
+            {
+              "name": "Austria",
+              "value": 14.7,
+              "id": "1et3zhr79m9y7fs97"
+            },
+            {
+              "name": "Netherlands",
+              "value": 13.7,
+              "id": "1et3zhr79m9y7fs98"
+            },
+            {
+              "name": "Sweden",
+              "value": 13,
+              "id": "1et3zhr79m9y7fs99"
+            },
+            {
+              "name": "Norway",
+              "value": 12,
+              "id": "1et3zhr79m9y7fs9a"
+            },
+            {
+              "name": "Switzerland",
+              "value": 10.6,
+              "id": "1et3zhr79m9y7fs9b"
+            },
+            {
+              "name": "Italy",
+              "value": 9.8,
+              "id": "1et3zhr79m9y7fs9c"
+            },
+            {
+              "name": "Korea",
+              "value": 5.5,
+              "id": "1et3zhr79m9y7fs9d"
+            },
+            {
+              "name": "Japan",
+              "value": 4.2,
+              "id": "1et3zhr79m9y7fs9e"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs8e"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs65"
+    },
+    {
+      "title": "Heart disease deaths",
+      "stat": 257,
+      "description": "deaths per 100,000 population were due to cardiovascular disease in 2017",
+      "citations": [
+        "Annual Report.” <em>America's Health Ranking</em>, United Health Foundation. https://www.americashealthrankings.org/explore/annual/measure/CVDDeaths/state/ALL"
+      ],
+      "lensData": [
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "heart disease deaths per 100,000 population",
+          "values": [
+            {
+              "state": "Alabama",
+              "value": 343,
+              "id": "1et3zhr79m9y7fs9h"
+            },
+            {
+              "state": "Alaska",
+              "value": 226,
+              "id": "1et3zhr79m9y7fs9i"
+            },
+            {
+              "state": "Arizona",
+              "value": 217,
+              "id": "1et3zhr79m9y7fs9j"
+            },
+            {
+              "state": "Arkansas",
+              "value": 330,
+              "id": "1et3zhr79m9y7fs9k"
+            },
+            {
+              "state": "California",
+              "value": 231,
+              "id": "1et3zhr79m9y7fs9l"
+            },
+            {
+              "state": "Colorado",
+              "value": 207,
+              "id": "1et3zhr79m9y7fs9m"
+            },
+            {
+              "state": "Connecticut",
+              "value": 218,
+              "id": "1et3zhr79m9y7fs9n"
+            },
+            {
+              "state": "Delaware",
+              "value": 254,
+              "id": "1et3zhr79m9y7fs9o"
+            },
+            {
+              "state": "Florida",
+              "value": 233,
+              "id": "1et3zhr79m9y7fs9p"
+            },
+            {
+              "state": "Georgia",
+              "value": 283,
+              "id": "1et3zhr79m9y7fs9q"
+            },
+            {
+              "state": "Hawaii",
+              "value": 208,
+              "id": "1et3zhr79m9y7fs9r"
+            },
+            {
+              "state": "Idaho",
+              "value": 241,
+              "id": "1et3zhr79m9y7fs9s"
+            },
+            {
+              "state": "Illinois",
+              "value": 260,
+              "id": "1et3zhr79m9y7fs9t"
+            },
+            {
+              "state": "Indiana",
+              "value": 279,
+              "id": "1et3zhr79m9y7fs9u"
+            },
+            {
+              "state": "Iowa",
+              "value": 246,
+              "id": "1et3zhr79m9y7fs9v"
+            },
+            {
+              "state": "Kansas",
+              "value": 258,
+              "id": "1et3zhr79m9y7fs9w"
+            },
+            {
+              "state": "Kentucky",
+              "value": 300,
+              "id": "1et3zhr79m9y7fs9x"
+            },
+            {
+              "state": "Louisiana",
+              "value": 320,
+              "id": "1et3zhr79m9y7fs9y"
+            },
+            {
+              "state": "Maine",
+              "value": 230,
+              "id": "1et3zhr79m9y7fs9z"
+            },
+            {
+              "state": "Maryland",
+              "value": 258,
+              "id": "1et3zhr79m9y7fsa0"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 209,
+              "id": "1et3zhr79m9y7fsa1"
+            },
+            {
+              "state": "Michigan",
+              "value": 298,
+              "id": "1et3zhr79m9y7fsa2"
+            },
+            {
+              "state": "Minnesota",
+              "value": 190,
+              "id": "1et3zhr79m9y7fsa3"
+            },
+            {
+              "state": "Mississippi",
+              "value": 356,
+              "id": "1et3zhr79m9y7fsa4"
+            },
+            {
+              "state": "Missouri",
+              "value": 292,
+              "id": "1et3zhr79m9y7fsa5"
+            },
+            {
+              "state": "Montana",
+              "value": 233,
+              "id": "1et3zhr79m9y7fsa6"
+            },
+            {
+              "state": "Nebraska",
+              "value": 232,
+              "id": "1et3zhr79m9y7fsa7"
+            },
+            {
+              "state": "Nevada",
+              "value": 294,
+              "id": "1et3zhr79m9y7fsa8"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 221,
+              "id": "1et3zhr79m9y7fsa9"
+            },
+            {
+              "state": "New Jersey",
+              "value": 245,
+              "id": "1et3zhr79m9y7fsaa"
+            },
+            {
+              "state": "New Mexico",
+              "value": 225,
+              "id": "1et3zhr79m9y7fsab"
+            },
+            {
+              "state": "New York",
+              "value": 259,
+              "id": "1et3zhr79m9y7fsac"
+            },
+            {
+              "state": "North Carolina",
+              "value": 255,
+              "id": "1et3zhr79m9y7fsad"
+            },
+            {
+              "state": "North Dakota",
+              "value": 238,
+              "id": "1et3zhr79m9y7fsae"
+            },
+            {
+              "state": "Tennessee",
+              "value": 310,
+              "id": "1et3zhr79m9y7fsaf"
+            },
+            {
+              "state": "Texas",
+              "value": 264,
+              "id": "1et3zhr79m9y7fsag"
+            },
+            {
+              "state": "Utah",
+              "value": 236,
+              "id": "1et3zhr79m9y7fsah"
+            },
+            {
+              "state": "Vermont",
+              "value": 238,
+              "id": "1et3zhr79m9y7fsai"
+            },
+            {
+              "state": "Virginia",
+              "value": 240,
+              "id": "1et3zhr79m9y7fsaj"
+            },
+            {
+              "state": "Washington",
+              "value": 218,
+              "id": "1et3zhr79m9y7fsak"
+            },
+            {
+              "state": "West Virginia",
+              "value": 300,
+              "id": "1et3zhr79m9y7fsal"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 239,
+              "id": "1et3zhr79m9y7fsam"
+            },
+            {
+              "state": "Wyoming",
+              "value": 238,
+              "id": "1et3zhr79m9y7fsan"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs9g"
+        },
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "yAxisLabel": "heart disease deaths per 100,000 population",
+          "title": null,
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "U.S.",
+              "values": [
+                {
+                  "year": 1950,
+                  "value": 588.8,
+                  "id": "1et3zhr79m9y7fsaq"
+                },
+                {
+                  "year": 1960,
+                  "value": 559,
+                  "id": "1et3zhr79m9y7fsar"
+                },
+                {
+                  "year": 1970,
+                  "value": 492.7,
+                  "id": "1et3zhr79m9y7fsas"
+                },
+                {
+                  "year": 1980,
+                  "value": 412.1,
+                  "id": "1et3zhr79m9y7fsat"
+                },
+                {
+                  "year": 1981,
+                  "value": 397,
+                  "id": "1et3zhr79m9y7fsau"
+                },
+                {
+                  "year": 1982,
+                  "value": 389,
+                  "id": "1et3zhr79m9y7fsav"
+                },
+                {
+                  "year": 1983,
+                  "value": 388.9,
+                  "id": "1et3zhr79m9y7fsaw"
+                },
+                {
+                  "year": 1984,
+                  "value": 378.8,
+                  "id": "1et3zhr79m9y7fsax"
+                },
+                {
+                  "year": 1985,
+                  "value": 375,
+                  "id": "1et3zhr79m9y7fsay"
+                },
+                {
+                  "year": 1986,
+                  "value": 365.1,
+                  "id": "1et3zhr79m9y7fsaz"
+                },
+                {
+                  "year": 1987,
+                  "value": 355.9,
+                  "id": "1et3zhr79m9y7fsb0"
+                },
+                {
+                  "year": 1988,
+                  "value": 352.5,
+                  "id": "1et3zhr79m9y7fsb1"
+                },
+                {
+                  "year": 1989,
+                  "value": 332,
+                  "id": "1et3zhr79m9y7fsb2"
+                },
+                {
+                  "year": 1990,
+                  "value": 321.8,
+                  "id": "1et3zhr79m9y7fsb3"
+                },
+                {
+                  "year": 1991,
+                  "value": 312.5,
+                  "id": "1et3zhr79m9y7fsb4"
+                },
+                {
+                  "year": 1992,
+                  "value": 304,
+                  "id": "1et3zhr79m9y7fsb5"
+                },
+                {
+                  "year": 1993,
+                  "value": 308.1,
+                  "id": "1et3zhr79m9y7fsb6"
+                },
+                {
+                  "year": 1994,
+                  "value": 297.5,
+                  "id": "1et3zhr79m9y7fsb7"
+                },
+                {
+                  "year": 1995,
+                  "value": 293.4,
+                  "id": "1et3zhr79m9y7fsb8"
+                },
+                {
+                  "year": 1996,
+                  "value": 285.7,
+                  "id": "1et3zhr79m9y7fsb9"
+                },
+                {
+                  "year": 1997,
+                  "value": 277.7,
+                  "id": "1et3zhr79m9y7fsba"
+                },
+                {
+                  "year": 1998,
+                  "value": 271.3,
+                  "id": "1et3zhr79m9y7fsbb"
+                },
+                {
+                  "year": 1999,
+                  "value": 266.5,
+                  "id": "1et3zhr79m9y7fsbc"
+                },
+                {
+                  "year": 2000,
+                  "value": 257.6,
+                  "id": "1et3zhr79m9y7fsbd"
+                },
+                {
+                  "year": 2001,
+                  "value": 249.5,
+                  "id": "1et3zhr79m9y7fsbe"
+                },
+                {
+                  "year": 2002,
+                  "value": 244.6,
+                  "id": "1et3zhr79m9y7fsbf"
+                },
+                {
+                  "year": 2003,
+                  "value": 236.3,
+                  "id": "1et3zhr79m9y7fsbg"
+                },
+                {
+                  "year": 2004,
+                  "value": 221.6,
+                  "id": "1et3zhr79m9y7fsbh"
+                },
+                {
+                  "year": 2005,
+                  "value": 216.8,
+                  "id": "1et3zhr79m9y7fsbi"
+                },
+                {
+                  "year": 2006,
+                  "value": 205.5,
+                  "id": "1et3zhr79m9y7fsbj"
+                },
+                {
+                  "year": 2007,
+                  "value": 196.1,
+                  "id": "1et3zhr79m9y7fsbk"
+                },
+                {
+                  "year": 2008,
+                  "value": 192.1,
+                  "id": "1et3zhr79m9y7fsbl"
+                },
+                {
+                  "year": 2009,
+                  "value": 182.8,
+                  "id": "1et3zhr79m9y7fsbm"
+                },
+                {
+                  "year": 2010,
+                  "value": 179.1,
+                  "id": "1et3zhr79m9y7fsbn"
+                },
+                {
+                  "year": 2011,
+                  "value": 173.7,
+                  "id": "1et3zhr79m9y7fsbo"
+                },
+                {
+                  "year": 2012,
+                  "value": 170.5,
+                  "id": "1et3zhr79m9y7fsbp"
+                },
+                {
+                  "year": 2013,
+                  "value": 169.8,
+                  "id": "1et3zhr79m9y7fsbq"
+                },
+                {
+                  "year": 2014,
+                  "value": 167,
+                  "id": "1et3zhr79m9y7fsbr"
+                },
+                {
+                  "year": 2015,
+                  "value": 168.5,
+                  "id": "1et3zhr79m9y7fsbs"
+                },
+                {
+                  "year": 2016,
+                  "value": 165.5,
+                  "id": "1et3zhr79m9y7fsbt"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsap"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsao"
+        },
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "xAxisLabel": "heart disease diagnoses per 100,000 population",
+          "values": [
+            {
+              "name": "Black, African American",
+              "value": 328,
+              "id": "1et3zhr79m9y7fsbv"
+            },
+            {
+              "name": "White",
+              "value": 253,
+              "id": "1et3zhr79m9y7fsbw"
+            },
+            {
+              "name": "Hispanic, Latino",
+              "value": 186,
+              "id": "1et3zhr79m9y7fsbx"
+            },
+            {
+              "name": "American Indian, Alaska Native",
+              "value": 179,
+              "id": "1et3zhr79m9y7fsby"
+            },
+            {
+              "name": "Asian, Pacific Islander",
+              "value": 147,
+              "id": "1et3zhr79m9y7fsbz"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsbu"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs9f"
+    }
+  ],
+  "supportingIndicators": [
+    {
+      "title": "Diabetes",
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 11,
+          "abbreviation": "%",
+          "description": "of American adults are diagnosed with diabetes",
+          "citations": [
+            "“Diabetes.” <em>USAFACTS</em>. https://usafacts.org/metrics/31759?regions=US&year=2017"
+          ],
+          "id": "1et3zhr79m9y7fsc1"
+        },
+        {
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "adult diabetes incidence (%)",
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "U.S.",
+              "values": [
+                {
+                  "year": 1996,
+                  "value": 5,
+                  "id": "1et3zhr79m9y7fsc4"
+                },
+                {
+                  "year": 1997,
+                  "value": 5,
+                  "id": "1et3zhr79m9y7fsc5"
+                },
+                {
+                  "year": 1998,
+                  "value": 5,
+                  "id": "1et3zhr79m9y7fsc6"
+                },
+                {
+                  "year": 1999,
+                  "value": 6,
+                  "id": "1et3zhr79m9y7fsc7"
+                },
+                {
+                  "year": 2000,
+                  "value": 6,
+                  "id": "1et3zhr79m9y7fsc8"
+                },
+                {
+                  "year": 2001,
+                  "value": 7,
+                  "id": "1et3zhr79m9y7fsc9"
+                },
+                {
+                  "year": 2002,
+                  "value": 7,
+                  "id": "1et3zhr79m9y7fsca"
+                },
+                {
+                  "year": 2003,
+                  "value": 7,
+                  "id": "1et3zhr79m9y7fscb"
+                },
+                {
+                  "year": 2004,
+                  "value": 7,
+                  "id": "1et3zhr79m9y7fscc"
+                },
+                {
+                  "year": 2005,
+                  "value": 7,
+                  "id": "1et3zhr79m9y7fscd"
+                },
+                {
+                  "year": 2006,
+                  "value": 8,
+                  "id": "1et3zhr79m9y7fsce"
+                },
+                {
+                  "year": 2007,
+                  "value": 8,
+                  "id": "1et3zhr79m9y7fscf"
+                },
+                {
+                  "year": 2008,
+                  "value": 8,
+                  "id": "1et3zhr79m9y7fscg"
+                },
+                {
+                  "year": 2009,
+                  "value": 8,
+                  "id": "1et3zhr79m9y7fsch"
+                },
+                {
+                  "year": 2010,
+                  "value": 9,
+                  "id": "1et3zhr79m9y7fsci"
+                },
+                {
+                  "year": 2011,
+                  "value": 10,
+                  "id": "1et3zhr79m9y7fscj"
+                },
+                {
+                  "year": 2012,
+                  "value": 10,
+                  "id": "1et3zhr79m9y7fsck"
+                },
+                {
+                  "year": 2013,
+                  "value": 10,
+                  "id": "1et3zhr79m9y7fscl"
+                },
+                {
+                  "year": 2014,
+                  "value": 10,
+                  "id": "1et3zhr79m9y7fscm"
+                },
+                {
+                  "year": 2015,
+                  "value": 10,
+                  "id": "1et3zhr79m9y7fscn"
+                },
+                {
+                  "year": 2016,
+                  "value": 11,
+                  "id": "1et3zhr79m9y7fsco"
+                },
+                {
+                  "year": 2017,
+                  "value": 11,
+                  "id": "1et3zhr79m9y7fscp"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsc3"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsc2"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsc0"
+    },
+    {
+      "title": "Physical inactivity",
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 26,
+          "abbreviation": "%",
+          "description": "of adults do no physical activity other than their regular job",
+          "citations": [
+            "America's Health Rankings analysis of CDC, Behavioral Risk Factor Surveillance System, United Health Foundation, AmericasHealthRankings.org, Accessed 2019., https://www.americashealthrankings.org/explore/annual/measure/Sedentary/state/ALL"
+          ],
+          "id": "1et3zhr79m9y7fscr"
+        },
+        {
+          "type": "list",
+          "label": "Healthiest",
+          "list": [
+            "WA",
+            "CO",
+            "CA",
+            "AK",
+            "UT"
+          ],
+          "id": "1et3zhr79m9y7fscs"
+        },
+        {
+          "type": "list",
+          "label": "Least-healthy",
+          "list": [
+            "KY",
+            "MS",
+            "AR",
+            "OK",
+            "TX"
+          ],
+          "id": "1et3zhr79m9y7fsct"
+        }
+      ],
+      "id": "1et3zhr79m9y7fscq"
+    },
+    {
+      "title": "Diet",
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 0,
+          "description": "more vegetables consumed daily, despite Healthy People 2020 targets.",
+          "citations": [
+            "“Nutrition, Physical Activity, and Obesity.” <em>Healthy People 2020</em>, ODPHP, 2017. https://www.healthypeople.gov/2020/leading-health-indicators/2020-lhi-topics/Nutrition-Physical-Activity-and-Obesity/data"
+          ],
+          "id": "1et3zhr79m9y7fscv"
+        },
+        {
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "xAxisLabel": "mean daily vegetable intake, in cups equivalent per 1,000 kcal",
+          "yAxisLabel": "age",
+          "values": [
+            {
+              "name": "2–18",
+              "value": 0.54,
+              "id": "1et3zhr79m9y7fscx"
+            },
+            {
+              "name": "19-50",
+              "value": 0.79,
+              "id": "1et3zhr79m9y7fscy"
+            },
+            {
+              "name": "51+",
+              "value": 0.9,
+              "id": "1et3zhr79m9y7fscz"
+            }
+          ],
+          "id": "1et3zhr79m9y7fscw"
+        }
+      ],
+      "id": "1et3zhr79m9y7fscu"
+    },
+    {
+      "title": "Hypertension",
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 46,
+          "abbreviation": "%",
+          "description": "of US adults were diagnosed with hypertension in 2016",
+          "citations": [
+            "Heart Disease and Stroke Statistics-2019 At-a-Glance.” <em>American Heart ASsociation</em>, 2019. https://professional.heart.org/idc/groups/ahamah-public/@wcm/@sop/@smd/documents/downloadable/ucm_503396.pdf"
+          ],
+          "id": "1et3zhr79m9y7fsd1"
+        },
+        {
+          "type": "stat",
+          "stat": 22,
+          "abbreviation": "%",
+          "description": "of deaths in the US were attributable to hypertension in 2016",
+          "id": "1et3zhr79m9y7fsd2"
+        },
+        {
+          "type": "stat",
+          "stat": 221,
+          "abbreviation": "B",
+          "prefix": "$",
+          "description": "of direct spending will be due to hypertension by 2035",
+          "id": "1et3zhr79m9y7fsd3"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsd0"
+    }
+  ],
+  "id": "1et3zhr79m9y7fs64"
+}

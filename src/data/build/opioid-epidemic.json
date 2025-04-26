@@ -1,0 +1,917 @@
+{
+  "title": "The Opioid Epidemic",
+  "description": "Increased prescriptions of opioid medications has led to widespread abuse of both prescription and non-prescription opioids. The consequences of this epidemic have been devastating, including tens of thousands of deaths and newborns experiencing withdrawal.",
+  "illustration": "opioids.svg",
+  "keyIndicators": [
+    {
+      "title": "Opioid overdose deaths",
+      "stat": 14.7,
+      "description": "deaths per 100,000 population in 2017",
+      "citations": [
+        "Centers for Disease Control and Prevention. <em>2018 Annual Surveillance Report of Drug-Related Risks and Outcomes — United States.</em> Surveillance Special Report. Centers for Disease Control and Prevention, U.S. Department of Health and Human Services. Published August 31, 2018. https://www.cdc.gov/drugoverdose/pdf/pubs/2018-cdc-drug-surveillance-report.pdf",
+        "“Drug overdose deaths.” <em>USAFACTS</em>. https://usafacts.org/metrics/112637"
+      ],
+      "lensData": [
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "total overdose deaths",
+          "xAxisLabel": null,
+          "zeroYAxis": true,
+          "values": [
+            {
+              "label": "Opioids",
+              "values": [
+                {
+                  "year": 1999,
+                  "value": 5441,
+                  "id": "1et3zhr79m9y7fs1q"
+                },
+                {
+                  "year": 2000,
+                  "value": 5848,
+                  "id": "1et3zhr79m9y7fs1r"
+                },
+                {
+                  "year": 2001,
+                  "value": 6957,
+                  "id": "1et3zhr79m9y7fs1s"
+                },
+                {
+                  "year": 2002,
+                  "value": 9168,
+                  "id": "1et3zhr79m9y7fs1t"
+                },
+                {
+                  "year": 2003,
+                  "value": 10237,
+                  "id": "1et3zhr79m9y7fs1u"
+                },
+                {
+                  "year": 2004,
+                  "value": 11449,
+                  "id": "1et3zhr79m9y7fs1v"
+                },
+                {
+                  "year": 2005,
+                  "value": 12570,
+                  "id": "1et3zhr79m9y7fs1w"
+                },
+                {
+                  "year": 2006,
+                  "value": 15338,
+                  "id": "1et3zhr79m9y7fs1x"
+                },
+                {
+                  "year": 2007,
+                  "value": 16391,
+                  "id": "1et3zhr79m9y7fs1y"
+                },
+                {
+                  "year": 2008,
+                  "value": 17307,
+                  "id": "1et3zhr79m9y7fs1z"
+                },
+                {
+                  "year": 2009,
+                  "value": 18322,
+                  "id": "1et3zhr79m9y7fs20"
+                },
+                {
+                  "year": 2010,
+                  "value": 19155,
+                  "id": "1et3zhr79m9y7fs21"
+                },
+                {
+                  "year": 2011,
+                  "value": 20588,
+                  "id": "1et3zhr79m9y7fs22"
+                },
+                {
+                  "year": 2012,
+                  "value": 21036,
+                  "id": "1et3zhr79m9y7fs23"
+                },
+                {
+                  "year": 2013,
+                  "value": 23153,
+                  "id": "1et3zhr79m9y7fs24"
+                },
+                {
+                  "year": 2014,
+                  "value": 27119,
+                  "id": "1et3zhr79m9y7fs25"
+                },
+                {
+                  "year": 2015,
+                  "value": 31546,
+                  "id": "1et3zhr79m9y7fs26"
+                },
+                {
+                  "year": 2016,
+                  "value": 40778,
+                  "id": "1et3zhr79m9y7fs27"
+                },
+                {
+                  "year": 2017,
+                  "value": 46394,
+                  "id": "1et3zhr79m9y7fs28"
+                }
+              ],
+              "id": "1et3zhr79m9y7fs1p"
+            },
+            {
+              "label": "Non-opioids",
+              "values": [
+                {
+                  "year": 1999,
+                  "value": 6266,
+                  "id": "1et3zhr79m9y7fs2a"
+                },
+                {
+                  "year": 2000,
+                  "value": 6026,
+                  "id": "1et3zhr79m9y7fs2b"
+                },
+                {
+                  "year": 2001,
+                  "value": 6355,
+                  "id": "1et3zhr79m9y7fs2c"
+                },
+                {
+                  "year": 2002,
+                  "value": 7635,
+                  "id": "1et3zhr79m9y7fs2d"
+                },
+                {
+                  "year": 2003,
+                  "value": 8402,
+                  "id": "1et3zhr79m9y7fs2e"
+                },
+                {
+                  "year": 2004,
+                  "value": 8518,
+                  "id": "1et3zhr79m9y7fs2f"
+                },
+                {
+                  "year": 2005,
+                  "value": 9615,
+                  "id": "1et3zhr79m9y7fs2g"
+                },
+                {
+                  "year": 2006,
+                  "value": 10767,
+                  "id": "1et3zhr79m9y7fs2h"
+                },
+                {
+                  "year": 2007,
+                  "value": 9725,
+                  "id": "1et3zhr79m9y7fs2i"
+                },
+                {
+                  "year": 2008,
+                  "value": 8632,
+                  "id": "1et3zhr79m9y7fs2j"
+                },
+                {
+                  "year": 2009,
+                  "value": 8018,
+                  "id": "1et3zhr79m9y7fs2k"
+                },
+                {
+                  "year": 2010,
+                  "value": 7961,
+                  "id": "1et3zhr79m9y7fs2l"
+                },
+                {
+                  "year": 2011,
+                  "value": 9191,
+                  "id": "1et3zhr79m9y7fs2m"
+                },
+                {
+                  "year": 2012,
+                  "value": 9341,
+                  "id": "1et3zhr79m9y7fs2n"
+                },
+                {
+                  "year": 2013,
+                  "value": 10680,
+                  "id": "1et3zhr79m9y7fs2o"
+                },
+                {
+                  "year": 2014,
+                  "value": 11610,
+                  "id": "1et3zhr79m9y7fs2p"
+                },
+                {
+                  "year": 2015,
+                  "value": 14525,
+                  "id": "1et3zhr79m9y7fs2q"
+                },
+                {
+                  "year": 2016,
+                  "value": 19654,
+                  "id": "1et3zhr79m9y7fs2r"
+                },
+                {
+                  "year": 2017,
+                  "value": 25201,
+                  "id": "1et3zhr79m9y7fs2s"
+                }
+              ],
+              "id": "1et3zhr79m9y7fs29"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs1o"
+        },
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "opioid deaths per 100,000 population",
+          "values": [
+            {
+              "state": "West Virginia",
+              "value": 49.6,
+              "id": "1et3zhr79m9y7fs2u"
+            },
+            {
+              "state": "Ohio",
+              "value": 39.2,
+              "id": "1et3zhr79m9y7fs2v"
+            },
+            {
+              "state": "Washington D.C.",
+              "value": 34.7,
+              "id": "1et3zhr79m9y7fs2w"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 34,
+              "id": "1et3zhr79m9y7fs2x"
+            },
+            {
+              "state": "Maryland",
+              "value": 32.2,
+              "id": "1et3zhr79m9y7fs2y"
+            },
+            {
+              "state": "Maine",
+              "value": 29.9,
+              "id": "1et3zhr79m9y7fs2z"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 28.2,
+              "id": "1et3zhr79m9y7fs30"
+            },
+            {
+              "state": "Kentucky",
+              "value": 27.9,
+              "id": "1et3zhr79m9y7fs31"
+            },
+            {
+              "state": "Connecticut",
+              "value": 27.7,
+              "id": "1et3zhr79m9y7fs32"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 26.9,
+              "id": "1et3zhr79m9y7fs33"
+            },
+            {
+              "state": "Michigan",
+              "value": 21.2,
+              "id": "1et3zhr79m9y7fs34"
+            },
+            {
+              "state": "Vermont",
+              "value": 20,
+              "id": "1et3zhr79m9y7fs35"
+            },
+            {
+              "state": "North Carolina",
+              "value": 19.8,
+              "id": "1et3zhr79m9y7fs36"
+            },
+            {
+              "state": "Tennessee",
+              "value": 19.3,
+              "id": "1et3zhr79m9y7fs37"
+            },
+            {
+              "state": "Illinois",
+              "value": 17.2,
+              "id": "1et3zhr79m9y7fs38"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 16.9,
+              "id": "1et3zhr79m9y7fs39"
+            },
+            {
+              "state": "New Mexico",
+              "value": 16.7,
+              "id": "1et3zhr79m9y7fs3a"
+            },
+            {
+              "state": "Missouri",
+              "value": 16.5,
+              "id": "1et3zhr79m9y7fs3b"
+            },
+            {
+              "state": "New York",
+              "value": 16.1,
+              "id": "1et3zhr79m9y7fs3c"
+            },
+            {
+              "state": "South Carolina",
+              "value": 15.5,
+              "id": "1et3zhr79m9y7fs3d"
+            },
+            {
+              "state": "Utah",
+              "value": 15.5,
+              "id": "1et3zhr79m9y7fs3e"
+            },
+            {
+              "state": "Virginia",
+              "value": 14.8,
+              "id": "1et3zhr79m9y7fs3f"
+            },
+            {
+              "state": "Alaska",
+              "value": 13.9,
+              "id": "1et3zhr79m9y7fs3g"
+            },
+            {
+              "state": "Arizona",
+              "value": 13.5,
+              "id": "1et3zhr79m9y7fs3h"
+            },
+            {
+              "state": "Nevada",
+              "value": 13.3,
+              "id": "1et3zhr79m9y7fs3i"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 10.2,
+              "id": "1et3zhr79m9y7fs3j"
+            },
+            {
+              "state": "Colorado",
+              "value": 10,
+              "id": "1et3zhr79m9y7fs3k"
+            },
+            {
+              "state": "Georgia",
+              "value": 9.7,
+              "id": "1et3zhr79m9y7fs3l"
+            },
+            {
+              "state": "Washington",
+              "value": 9.6,
+              "id": "1et3zhr79m9y7fs3m"
+            },
+            {
+              "state": "Oregon",
+              "value": 8.1,
+              "id": "1et3zhr79m9y7fs3n"
+            },
+            {
+              "state": "Minnesota",
+              "value": 7.8,
+              "id": "1et3zhr79m9y7fs3o"
+            },
+            {
+              "state": "Iowa",
+              "value": 6.9,
+              "id": "1et3zhr79m9y7fs3p"
+            },
+            {
+              "state": "California",
+              "value": 5.3,
+              "id": "1et3zhr79m9y7fs3q"
+            },
+            {
+              "state": "Texas",
+              "value": 5.1,
+              "id": "1et3zhr79m9y7fs3r"
+            },
+            {
+              "state": "Hawaii",
+              "value": 3.4,
+              "id": "1et3zhr79m9y7fs3s"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs2t"
+        },
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "xAxisLabel": "opioid deaths per 100,000 population",
+          "values": [
+            {
+              "name": "White",
+              "value": 25.3,
+              "id": "1et3zhr79m9y7fs3u"
+            },
+            {
+              "name": "American Indian / Alaska Native",
+              "value": 24.2,
+              "id": "1et3zhr79m9y7fs3v"
+            },
+            {
+              "name": "Black",
+              "value": 17.1,
+              "id": "1et3zhr79m9y7fs3w"
+            },
+            {
+              "name": "Hispanic",
+              "value": 9.5,
+              "id": "1et3zhr79m9y7fs3x"
+            },
+            {
+              "name": "Asian / Pacific Islander",
+              "value": 3.1,
+              "id": "1et3zhr79m9y7fs3y"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs3t"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs1n"
+    },
+    {
+      "title": "Opioid prescription rate",
+      "stat": 17,
+      "abbreviation": "%",
+      "description": "of adults filled at least one opioid prescription in 2017",
+      "citations": [
+        "Opioid Summaries by State.” <em>National Institue on Drug Abuse</em>, NIH, May 2019. https://www.drugabuse.gov/drugs-abuse/opioids/opioid-summaries-by-state"
+      ],
+      "lensData": [
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "barDiverging",
+          "title": "% population, filling at least one opioid prescription in 2017",
+          "yAxisLabel": "age",
+          "leftAxisLabel": "female",
+          "rightAxisLabel": "male",
+          "values": [
+            {
+              "name": "15-19",
+              "lValue": 11.8,
+              "rValue": 9,
+              "id": "1et3zhr79m9y7fs41"
+            },
+            {
+              "name": "20-24",
+              "lValue": 16.7,
+              "rValue": 9.6,
+              "id": "1et3zhr79m9y7fs42"
+            },
+            {
+              "name": "25-34",
+              "lValue": 22.1,
+              "rValue": 12.6,
+              "id": "1et3zhr79m9y7fs43"
+            },
+            {
+              "name": "35-44",
+              "lValue": 24.2,
+              "rValue": 16.8,
+              "id": "1et3zhr79m9y7fs44"
+            },
+            {
+              "name": "45-54",
+              "lValue": 25.9,
+              "rValue": 20.2,
+              "id": "1et3zhr79m9y7fs45"
+            },
+            {
+              "name": "55-64",
+              "lValue": 27.8,
+              "rValue": 24.6,
+              "id": "1et3zhr79m9y7fs46"
+            },
+            {
+              "name": "65+",
+              "lValue": 28.2,
+              "rValue": 25.1,
+              "id": "1et3zhr79m9y7fs47"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs40"
+        },
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "total opioid prescriptions in 2017 per 100 persons",
+          "values": [
+            {
+              "state": "West Virginia",
+              "value": 81.3,
+              "id": "1et3zhr79m9y7fs49"
+            },
+            {
+              "state": "Ohio",
+              "value": 63.5,
+              "id": "1et3zhr79m9y7fs4a"
+            },
+            {
+              "state": "Washington D.C.",
+              "value": 28.5,
+              "id": "1et3zhr79m9y7fs4b"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 52.8,
+              "id": "1et3zhr79m9y7fs4c"
+            },
+            {
+              "state": "Maryland",
+              "value": 51.7,
+              "id": "1et3zhr79m9y7fs4d"
+            },
+            {
+              "state": "Maine",
+              "value": 55.7,
+              "id": "1et3zhr79m9y7fs4e"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 40.1,
+              "id": "1et3zhr79m9y7fs4f"
+            },
+            {
+              "state": "Kentucky",
+              "value": 86.8,
+              "id": "1et3zhr79m9y7fs4g"
+            },
+            {
+              "state": "Connecticut",
+              "value": 48,
+              "id": "1et3zhr79m9y7fs4h"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 51.2,
+              "id": "1et3zhr79m9y7fs4i"
+            },
+            {
+              "state": "Michigan",
+              "value": 74,
+              "id": "1et3zhr79m9y7fs4j"
+            },
+            {
+              "state": "Vermont",
+              "value": 50.5,
+              "id": "1et3zhr79m9y7fs4k"
+            },
+            {
+              "state": "North Carolina",
+              "value": 72,
+              "id": "1et3zhr79m9y7fs4l"
+            },
+            {
+              "state": "Tennessee",
+              "value": 94.4,
+              "id": "1et3zhr79m9y7fs4m"
+            },
+            {
+              "state": "Illinois",
+              "value": 51.1,
+              "id": "1et3zhr79m9y7fs4n"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 52.6,
+              "id": "1et3zhr79m9y7fs4o"
+            },
+            {
+              "state": "New Mexico",
+              "value": 56.4,
+              "id": "1et3zhr79m9y7fs4p"
+            },
+            {
+              "state": "Missouri",
+              "value": 71.8,
+              "id": "1et3zhr79m9y7fs4q"
+            },
+            {
+              "state": "New York",
+              "value": 37.8,
+              "id": "1et3zhr79m9y7fs4r"
+            },
+            {
+              "state": "South Carolina",
+              "value": 79.3,
+              "id": "1et3zhr79m9y7fs4s"
+            },
+            {
+              "state": "Utah",
+              "value": 63.8,
+              "id": "1et3zhr79m9y7fs4t"
+            },
+            {
+              "state": "Virginia",
+              "value": 52.9,
+              "id": "1et3zhr79m9y7fs4u"
+            },
+            {
+              "state": "Alaska",
+              "value": 52,
+              "id": "1et3zhr79m9y7fs4v"
+            },
+            {
+              "state": "Arizona",
+              "value": 61.2,
+              "id": "1et3zhr79m9y7fs4w"
+            },
+            {
+              "state": "Nevada",
+              "value": 73,
+              "id": "1et3zhr79m9y7fs4x"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 88.1,
+              "id": "1et3zhr79m9y7fs4y"
+            },
+            {
+              "state": "Colorado",
+              "value": 52.9,
+              "id": "1et3zhr79m9y7fs4z"
+            },
+            {
+              "state": "Georgia",
+              "value": 70.9,
+              "id": "1et3zhr79m9y7fs50"
+            },
+            {
+              "state": "Washington",
+              "value": 57.2,
+              "id": "1et3zhr79m9y7fs51"
+            },
+            {
+              "state": "Oregon",
+              "value": 66.1,
+              "id": "1et3zhr79m9y7fs52"
+            },
+            {
+              "state": "Minnesota",
+              "value": 41,
+              "id": "1et3zhr79m9y7fs53"
+            },
+            {
+              "state": "Iowa",
+              "value": 56.4,
+              "id": "1et3zhr79m9y7fs54"
+            },
+            {
+              "state": "California",
+              "value": 39.5,
+              "id": "1et3zhr79m9y7fs55"
+            },
+            {
+              "state": "Texas",
+              "value": 53.1,
+              "id": "1et3zhr79m9y7fs56"
+            },
+            {
+              "state": "Hawaii",
+              "value": 37,
+              "id": "1et3zhr79m9y7fs57"
+            },
+            {
+              "state": "Alabama",
+              "value": 107.2,
+              "id": "1et3zhr79m9y7fs58"
+            },
+            {
+              "state": "Arkansas",
+              "value": 105.4,
+              "id": "1et3zhr79m9y7fs59"
+            },
+            {
+              "state": "Delaware",
+              "value": 68.3,
+              "id": "1et3zhr79m9y7fs5a"
+            },
+            {
+              "state": "Florida",
+              "value": 60.9,
+              "id": "1et3zhr79m9y7fs5b"
+            },
+            {
+              "state": "Idaho",
+              "value": 70.3,
+              "id": "1et3zhr79m9y7fs5c"
+            },
+            {
+              "state": "Indiana",
+              "value": 74.2,
+              "id": "1et3zhr79m9y7fs5d"
+            },
+            {
+              "state": "Kansas",
+              "value": 69.8,
+              "id": "1et3zhr79m9y7fs5e"
+            },
+            {
+              "state": "Louisiana",
+              "value": 89.5,
+              "id": "1et3zhr79m9y7fs5f"
+            },
+            {
+              "state": "Mississippi",
+              "value": 92.9,
+              "id": "1et3zhr79m9y7fs5g"
+            },
+            {
+              "state": "Montana",
+              "value": 61.1,
+              "id": "1et3zhr79m9y7fs5h"
+            },
+            {
+              "state": "Nebraska",
+              "value": 56.6,
+              "id": "1et3zhr79m9y7fs5i"
+            },
+            {
+              "state": "New Jersey",
+              "value": 44.2,
+              "id": "1et3zhr79m9y7fs5j"
+            },
+            {
+              "state": "North Dakota",
+              "value": 41.5,
+              "id": "1et3zhr79m9y7fs5k"
+            },
+            {
+              "state": "Pennsylvania",
+              "value": 57.7,
+              "id": "1et3zhr79m9y7fs5l"
+            },
+            {
+              "state": "South Dakota",
+              "value": 49,
+              "id": "1et3zhr79m9y7fs5m"
+            },
+            {
+              "state": "Wyoming",
+              "value": 64.8,
+              "id": "1et3zhr79m9y7fs5n"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs48"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs3z"
+    }
+  ],
+  "supportingIndicators": [
+    {
+      "title": "Substances",
+      "citations": [
+        "Centers for Disease Control and Prevention. <em>2018 Annual Surveillance Report of Drug-Related Risks and Outcomes — United States.</em> Surveillance Special Report. Centers for Disease Control and Prevention, U.S. Department of Health and Human Services. Published August 31, 2018. https://www.cdc.gov/drugoverdose/pdf/pubs/2018-cdc-drug-surveillance-report.pdf",
+        "“Drug overdose deaths.” <em>USAFACTS</em>. https://usafacts.org/metrics/112637"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 67,
+          "abbreviation": "%",
+          "description": "of the 64k drug overdose deaths were due to opioids in 2017",
+          "id": "1et3zhr79m9y7fs5p"
+        },
+        {
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "title": null,
+          "yAxisLabel": null,
+          "xAxisLabel": "opioid related deaths per 100,000 persons",
+          "values": [
+            {
+              "name": "ANY",
+              "value": 13.3,
+              "emphasis": true,
+              "id": "1et3zhr79m9y7fs5r"
+            },
+            {
+              "name": "other synthetics",
+              "value": 6.2,
+              "id": "1et3zhr79m9y7fs5s"
+            },
+            {
+              "name": "prescription",
+              "value": 5.2,
+              "id": "1et3zhr79m9y7fs5t"
+            },
+            {
+              "name": "heroin",
+              "value": 4.9,
+              "id": "1et3zhr79m9y7fs5u"
+            },
+            {
+              "name": "methadone",
+              "value": 1,
+              "id": "1et3zhr79m9y7fs5v"
+            }
+          ],
+          "id": "1et3zhr79m9y7fs5q"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs5o"
+    },
+    {
+      "title": "Related topics",
+      "hide": true,
+      "indicators": [
+        {
+          "type": "link",
+          "text": "Substance abuse",
+          "link": "#",
+          "id": "1et3zhr79m9y7fs5x"
+        },
+        {
+          "type": "link",
+          "text": "Mental health",
+          "link": "#",
+          "id": "1et3zhr79m9y7fs5y"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs5w"
+    },
+    {
+      "title": "Treatment",
+      "citations": [
+        "“Treatment for substance use.” <em>USAFACTS</em>. https://usafacts.org/metrics/114044"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 2.1,
+          "abbreviation": "M",
+          "description": "people received treatment for opioid abuse in 2017",
+          "id": "1et3zhr79m9y7fs60"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs5z"
+    },
+    {
+      "title": "First time use",
+      "citations": [
+        "Centers for Disease Control and Prevention. <em>2018 Annual Surveillance Report of Drug-Related Risks and Outcomes — United States.</em> Surveillance Special Report. Centers for Disease Control and Prevention, U.S. Department of Health and Human Services. Published August 31, 2018. https://www.cdc.gov/drugoverdose/pdf/pubs/2018-cdc-drug-surveillance-report.pdf"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 2.1,
+          "abbreviation": "M",
+          "description": "people reported first time misuse of prescription painkillers in 2017",
+          "id": "1et3zhr79m9y7fs62"
+        },
+        {
+          "type": "table",
+          "labelRow": [
+            "age",
+            "prescriptions",
+            "%"
+          ],
+          "headerRow": [
+            "12+",
+            "2,139",
+            "0.8"
+          ],
+          "rows": [
+            [
+              "12-17",
+              "423",
+              "1.7"
+            ],
+            [
+              "18-25",
+              "585",
+              "1.7"
+            ],
+            [
+              "26+",
+              "1,130",
+              "0.5"
+            ]
+          ],
+          "id": "1et3zhr79m9y7fs63"
+        }
+      ],
+      "id": "1et3zhr79m9y7fs61"
+    }
+  ],
+  "id": "1et3zhr79m9y7fs1m"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "us-health-status",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@zendeskgarden/css-grid": "^0.1.39",
+    "d3": "^7.9.0",
+    "glob": "^11.0.2",
+    "react": "^19.1.0",
+    "react-d3-axis": "^0.1.2",
+    "react-dom": "^19.1.0",
+    "react-scripts": "5.0.1",
+    "react-scroll": "1.9.3",
+    "react-slick": "^0.30.3",
+    "react-svg-text": "^0.1.2",
+    "sass": "^1.87.0",
+    "slick-carousel": "^1.8.1",
+    "topojson-client": "3.1.0",
+    "uniqid": "^5.4.0",
+    "us-atlas": "3.0.1"
+  },
+  "scripts": {
+    "write-ids": "NODE_OPTIONS=--openssl-legacy-provider node src/add-unique-id.js",
+    "start": "pnpm run write-ids && react-scripts start",
+    "build": "pnpm run write-ids && react-scripts build",
+    "test": "pnpm run write-ids && react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

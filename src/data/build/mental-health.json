@@ -1,0 +1,960 @@
+{
+  "title": "Mental Health",
+  "description": "While 1 in 5 adults have a mental health condition, most Americans still lack access to care.",
+  "illustration": "mental-health.svg",
+  "keyIndicators": [
+    {
+      "title": "Suicide rate",
+      "stat": 14,
+      "description": "suicides per 100,000 population in 2017",
+      "citations": [
+        "NCHS, National Vital Statistics System, Mortality",
+        "“Annual Report.” <em>America's Health Rankings</em>, United Health Foundation, 2018. https://www.americashealthrankings.org/explore/annual/measure/Suicide/",
+        "All suicide rates are age adjusted"
+      ],
+      "lensData": [
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "suicide deaths per 100,000 population",
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "U.S.A",
+              "values": [
+                {
+                  "year": 1999,
+                  "value": 10.5,
+                  "id": "1et3zhr79m9y7fsd8"
+                },
+                {
+                  "year": 2000,
+                  "value": 10.4,
+                  "id": "1et3zhr79m9y7fsd9"
+                },
+                {
+                  "year": 2001,
+                  "value": 10.7,
+                  "id": "1et3zhr79m9y7fsda"
+                },
+                {
+                  "year": 2002,
+                  "value": 10.9,
+                  "id": "1et3zhr79m9y7fsdb"
+                },
+                {
+                  "year": 2003,
+                  "value": 10.8,
+                  "id": "1et3zhr79m9y7fsdc"
+                },
+                {
+                  "year": 2004,
+                  "value": 11,
+                  "id": "1et3zhr79m9y7fsdd"
+                },
+                {
+                  "year": 2005,
+                  "value": 10.9,
+                  "id": "1et3zhr79m9y7fsde"
+                },
+                {
+                  "year": 2006,
+                  "value": 11,
+                  "id": "1et3zhr79m9y7fsdf"
+                },
+                {
+                  "year": 2007,
+                  "value": 11.3,
+                  "id": "1et3zhr79m9y7fsdg"
+                },
+                {
+                  "year": 2008,
+                  "value": 11.6,
+                  "id": "1et3zhr79m9y7fsdh"
+                },
+                {
+                  "year": 2009,
+                  "value": 11.8,
+                  "id": "1et3zhr79m9y7fsdi"
+                },
+                {
+                  "year": 2010,
+                  "value": 12.1,
+                  "id": "1et3zhr79m9y7fsdj"
+                },
+                {
+                  "year": 2011,
+                  "value": 12.3,
+                  "id": "1et3zhr79m9y7fsdk"
+                },
+                {
+                  "year": 2012,
+                  "value": 12.6,
+                  "id": "1et3zhr79m9y7fsdl"
+                },
+                {
+                  "year": 2013,
+                  "value": 12.6,
+                  "id": "1et3zhr79m9y7fsdm"
+                },
+                {
+                  "year": 2014,
+                  "value": 13,
+                  "id": "1et3zhr79m9y7fsdn"
+                },
+                {
+                  "year": 2015,
+                  "value": 13.3,
+                  "id": "1et3zhr79m9y7fsdo"
+                },
+                {
+                  "year": 2016,
+                  "value": 13.5,
+                  "id": "1et3zhr79m9y7fsdp"
+                },
+                {
+                  "year": 2017,
+                  "value": 14,
+                  "id": "1et3zhr79m9y7fsdq"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsd7"
+            },
+            {
+              "label": "World Average",
+              "values": [
+                {
+                  "year": 2000,
+                  "value": 14.1,
+                  "id": "1et3zhr79m9y7fsds"
+                },
+                {
+                  "year": 2001,
+                  "value": 13.4,
+                  "id": "1et3zhr79m9y7fsdt"
+                },
+                {
+                  "year": 2002,
+                  "value": 12.9,
+                  "id": "1et3zhr79m9y7fsdu"
+                },
+                {
+                  "year": 2003,
+                  "value": 12.8,
+                  "id": "1et3zhr79m9y7fsdv"
+                },
+                {
+                  "year": 2004,
+                  "value": 12.6,
+                  "id": "1et3zhr79m9y7fsdw"
+                },
+                {
+                  "year": 2005,
+                  "value": 12.5,
+                  "id": "1et3zhr79m9y7fsdx"
+                },
+                {
+                  "year": 2006,
+                  "value": 12,
+                  "id": "1et3zhr79m9y7fsdy"
+                },
+                {
+                  "year": 2007,
+                  "value": 11.7,
+                  "id": "1et3zhr79m9y7fsdz"
+                },
+                {
+                  "year": 2008,
+                  "value": 11.5,
+                  "id": "1et3zhr79m9y7fse0"
+                },
+                {
+                  "year": 2009,
+                  "value": 11.3,
+                  "id": "1et3zhr79m9y7fse1"
+                },
+                {
+                  "year": 2010,
+                  "value": 11.2,
+                  "id": "1et3zhr79m9y7fse2"
+                },
+                {
+                  "year": 2011,
+                  "value": 11,
+                  "id": "1et3zhr79m9y7fse3"
+                },
+                {
+                  "year": 2012,
+                  "value": 10.7,
+                  "id": "1et3zhr79m9y7fse4"
+                },
+                {
+                  "year": 2013,
+                  "value": 10.4,
+                  "id": "1et3zhr79m9y7fse5"
+                },
+                {
+                  "year": 2014,
+                  "value": 10.3,
+                  "id": "1et3zhr79m9y7fse6"
+                },
+                {
+                  "year": 2015,
+                  "value": 10.1,
+                  "id": "1et3zhr79m9y7fse7"
+                },
+                {
+                  "year": 2016,
+                  "value": 10,
+                  "id": "1et3zhr79m9y7fse8"
+                },
+                {
+                  "year": 2017,
+                  "value": 9.9,
+                  "id": "1et3zhr79m9y7fse9"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsdr"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsd6"
+        },
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "suicides per 100,000 population",
+          "values": [
+            {
+              "state": "Alabama",
+              "value": 16.2,
+              "id": "1et3zhr79m9y7fseb"
+            },
+            {
+              "state": "Alaska",
+              "value": 25.5,
+              "id": "1et3zhr79m9y7fsec"
+            },
+            {
+              "state": "Arizona",
+              "value": 18.5,
+              "id": "1et3zhr79m9y7fsed"
+            },
+            {
+              "state": "Arkansas",
+              "value": 18.6,
+              "id": "1et3zhr79m9y7fsee"
+            },
+            {
+              "state": "California",
+              "value": 11.1,
+              "id": "1et3zhr79m9y7fsef"
+            },
+            {
+              "state": "Colorado",
+              "value": 21,
+              "id": "1et3zhr79m9y7fseg"
+            },
+            {
+              "state": "Connecticut",
+              "value": 10.7,
+              "id": "1et3zhr79m9y7fseh"
+            },
+            {
+              "state": "Delaware",
+              "value": 12.2,
+              "id": "1et3zhr79m9y7fsei"
+            },
+            {
+              "state": "District of Columbia",
+              "value": 5.5,
+              "id": "1et3zhr79m9y7fsej"
+            },
+            {
+              "state": "Florida",
+              "value": 14.6,
+              "id": "1et3zhr79m9y7fsek"
+            },
+            {
+              "state": "Georgia",
+              "value": 13.8,
+              "id": "1et3zhr79m9y7fsel"
+            },
+            {
+              "state": "Hawaii",
+              "value": 12.2,
+              "id": "1et3zhr79m9y7fsem"
+            },
+            {
+              "state": "Idaho",
+              "value": 21.5,
+              "id": "1et3zhr79m9y7fsen"
+            },
+            {
+              "state": "Illinois",
+              "value": 11,
+              "id": "1et3zhr79m9y7fseo"
+            },
+            {
+              "state": "Indiana",
+              "value": 15.7,
+              "id": "1et3zhr79m9y7fsep"
+            },
+            {
+              "state": "Iowa",
+              "value": 14.7,
+              "id": "1et3zhr79m9y7fseq"
+            },
+            {
+              "state": "Kansas",
+              "value": 18.1,
+              "id": "1et3zhr79m9y7fser"
+            },
+            {
+              "state": "Kentucky",
+              "value": 17.1,
+              "id": "1et3zhr79m9y7fses"
+            },
+            {
+              "state": "Louisiana",
+              "value": 14.6,
+              "id": "1et3zhr79m9y7fset"
+            },
+            {
+              "state": "Maine",
+              "value": 16.3,
+              "id": "1et3zhr79m9y7fseu"
+            },
+            {
+              "state": "Maryland",
+              "value": 9.7,
+              "id": "1et3zhr79m9y7fsev"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 9,
+              "id": "1et3zhr79m9y7fsew"
+            },
+            {
+              "state": "Michigan",
+              "value": 13.6,
+              "id": "1et3zhr79m9y7fsex"
+            },
+            {
+              "state": "Minnesota",
+              "value": 13.6,
+              "id": "1et3zhr79m9y7fsey"
+            },
+            {
+              "state": "Mississippi",
+              "value": 13,
+              "id": "1et3zhr79m9y7fsez"
+            },
+            {
+              "state": "Missouri",
+              "value": 18.7,
+              "id": "1et3zhr79m9y7fsf0"
+            },
+            {
+              "state": "Montana",
+              "value": 26,
+              "id": "1et3zhr79m9y7fsf1"
+            },
+            {
+              "state": "Nebraska",
+              "value": 13.2,
+              "id": "1et3zhr79m9y7fsf2"
+            },
+            {
+              "state": "Nevada",
+              "value": 22.2,
+              "id": "1et3zhr79m9y7fsf3"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 17.6,
+              "id": "1et3zhr79m9y7fsf4"
+            },
+            {
+              "state": "New Jersey",
+              "value": 7.5,
+              "id": "1et3zhr79m9y7fsf5"
+            },
+            {
+              "state": "New Mexico",
+              "value": 23,
+              "id": "1et3zhr79m9y7fsf6"
+            },
+            {
+              "state": "New York",
+              "value": 8.3,
+              "id": "1et3zhr79m9y7fsf7"
+            },
+            {
+              "state": "North Carolina",
+              "value": 13.5,
+              "id": "1et3zhr79m9y7fsf8"
+            },
+            {
+              "state": "North Dakota",
+              "value": 18.8,
+              "id": "1et3zhr79m9y7fsf9"
+            },
+            {
+              "state": "Ohio",
+              "value": 14.6,
+              "id": "1et3zhr79m9y7fsfa"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 21.4,
+              "id": "1et3zhr79m9y7fsfb"
+            },
+            {
+              "state": "Oregon",
+              "value": 18.5,
+              "id": "1et3zhr79m9y7fsfc"
+            },
+            {
+              "state": "Pennsylvania",
+              "value": 15.1,
+              "id": "1et3zhr79m9y7fsfd"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 11.6,
+              "id": "1et3zhr79m9y7fsfe"
+            },
+            {
+              "state": "South Carolina",
+              "value": 16.3,
+              "id": "1et3zhr79m9y7fsff"
+            },
+            {
+              "state": "South Dakota",
+              "value": 19.5,
+              "id": "1et3zhr79m9y7fsfg"
+            },
+            {
+              "state": "Tennessee",
+              "value": 16.6,
+              "id": "1et3zhr79m9y7fsfh"
+            },
+            {
+              "state": "Texas",
+              "value": 13,
+              "id": "1et3zhr79m9y7fsfi"
+            },
+            {
+              "state": "Utah",
+              "value": 22.1,
+              "id": "1et3zhr79m9y7fsfj"
+            },
+            {
+              "state": "Vermont",
+              "value": 18.1,
+              "id": "1et3zhr79m9y7fsfk"
+            },
+            {
+              "state": "Virginia",
+              "value": 13.8,
+              "id": "1et3zhr79m9y7fsfl"
+            },
+            {
+              "state": "Washington",
+              "value": 15.5,
+              "id": "1et3zhr79m9y7fsfm"
+            },
+            {
+              "state": "West Virginia",
+              "value": 19.4,
+              "id": "1et3zhr79m9y7fsfn"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 14.9,
+              "id": "1et3zhr79m9y7fsfo"
+            },
+            {
+              "state": "Wyoming",
+              "value": 25.2,
+              "id": "1et3zhr79m9y7fsfp"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsea"
+        },
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "yAxisLabel": null,
+          "xAxisLabel": "suicides per 100,000 population",
+          "values": [
+            {
+              "name": "White",
+              "value": 15.7,
+              "id": "1et3zhr79m9y7fsfr"
+            },
+            {
+              "name": "American Indian / Alaskan Native",
+              "value": 13.4,
+              "id": "1et3zhr79m9y7fsfs"
+            },
+            {
+              "name": "Asian",
+              "value": 6.9,
+              "id": "1et3zhr79m9y7fsft"
+            },
+            {
+              "name": "Hispanic",
+              "value": 6.8,
+              "id": "1et3zhr79m9y7fsfu"
+            },
+            {
+              "name": "Black",
+              "value": 6.1,
+              "id": "1et3zhr79m9y7fsfv"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsfq"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsd5"
+    },
+    {
+      "title": "Mental health disorders",
+      "stat": 19,
+      "description": "of U.S. adults had a mental illness in 2017",
+      "abbreviation": "%",
+      "citations": [
+        "“Mental Health Information.” <em>National Institute of Mental Health</em>, NIH, HHS,2019. https://www.nimh.nih.gov/health/statistics/mental-illness.shtml#part_154785",
+        "“Mental Health in America.” <em>Mental Health America</em>, 2019. https://mhanational.org/mentalhealthfacts"
+      ],
+      "lensData": [
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "% adults experiencing a mental illness",
+          "values": [
+            {
+              "state": "Alabama",
+              "value": 18.47,
+              "id": "1et3zhr79m9y7fsfy"
+            },
+            {
+              "state": "Alaska",
+              "value": 20.01,
+              "id": "1et3zhr79m9y7fsfz"
+            },
+            {
+              "state": "Arizona",
+              "value": 17.52,
+              "id": "1et3zhr79m9y7fsg0"
+            },
+            {
+              "state": "Arkansas",
+              "value": 21.02,
+              "id": "1et3zhr79m9y7fsg1"
+            },
+            {
+              "state": "California",
+              "value": 17.15,
+              "id": "1et3zhr79m9y7fsg2"
+            },
+            {
+              "state": "Colorado",
+              "value": 20.05,
+              "id": "1et3zhr79m9y7fsg3"
+            },
+            {
+              "state": "Connecticut",
+              "value": 18,
+              "id": "1et3zhr79m9y7fsg4"
+            },
+            {
+              "state": "Delaware",
+              "value": 17.71,
+              "id": "1et3zhr79m9y7fsg5"
+            },
+            {
+              "state": "District of Columbia",
+              "value": 18.82,
+              "id": "1et3zhr79m9y7fsg6"
+            },
+            {
+              "state": "Florida",
+              "value": 17.3,
+              "id": "1et3zhr79m9y7fsg7"
+            },
+            {
+              "state": "Georgia",
+              "value": 17.74,
+              "id": "1et3zhr79m9y7fsg8"
+            },
+            {
+              "state": "Hawaii",
+              "value": 15.55,
+              "id": "1et3zhr79m9y7fsg9"
+            },
+            {
+              "state": "Idaho",
+              "value": 21.62,
+              "id": "1et3zhr79m9y7fsga"
+            },
+            {
+              "state": "Illinois",
+              "value": 15.73,
+              "id": "1et3zhr79m9y7fsgb"
+            },
+            {
+              "state": "Indiana",
+              "value": 19.95,
+              "id": "1et3zhr79m9y7fsgc"
+            },
+            {
+              "state": "Iowa",
+              "value": 17.72,
+              "id": "1et3zhr79m9y7fsgd"
+            },
+            {
+              "state": "Kansas",
+              "value": 18.17,
+              "id": "1et3zhr79m9y7fsge"
+            },
+            {
+              "state": "Kentucky",
+              "value": 22.08,
+              "id": "1et3zhr79m9y7fsgf"
+            },
+            {
+              "state": "Louisiana",
+              "value": 17.31,
+              "id": "1et3zhr79m9y7fsgg"
+            },
+            {
+              "state": "Maine",
+              "value": 17.62,
+              "id": "1et3zhr79m9y7fsgh"
+            },
+            {
+              "state": "Maryland",
+              "value": 16.59,
+              "id": "1et3zhr79m9y7fsgi"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 19.34,
+              "id": "1et3zhr79m9y7fsgj"
+            },
+            {
+              "state": "Michigan",
+              "value": 17.33,
+              "id": "1et3zhr79m9y7fsgk"
+            },
+            {
+              "state": "Minnesota",
+              "value": 18.24,
+              "id": "1et3zhr79m9y7fsgl"
+            },
+            {
+              "state": "Mississippi",
+              "value": 17.49,
+              "id": "1et3zhr79m9y7fsgm"
+            },
+            {
+              "state": "Missouri",
+              "value": 18.03,
+              "id": "1et3zhr79m9y7fsgn"
+            },
+            {
+              "state": "Montana",
+              "value": 20.57,
+              "id": "1et3zhr79m9y7fsgo"
+            },
+            {
+              "state": "Nebraska",
+              "value": 18.39,
+              "id": "1et3zhr79m9y7fsgp"
+            },
+            {
+              "state": "Nevada",
+              "value": 18.33,
+              "id": "1et3zhr79m9y7fsgq"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 19.36,
+              "id": "1et3zhr79m9y7fsgr"
+            },
+            {
+              "state": "New Jersey",
+              "value": 15.5,
+              "id": "1et3zhr79m9y7fsgs"
+            },
+            {
+              "state": "New Mexico",
+              "value": 19.19,
+              "id": "1et3zhr79m9y7fsgt"
+            },
+            {
+              "state": "New York",
+              "value": 17.54,
+              "id": "1et3zhr79m9y7fsgu"
+            },
+            {
+              "state": "North Carolina",
+              "value": 18.98,
+              "id": "1et3zhr79m9y7fsgv"
+            },
+            {
+              "state": "North Dakota",
+              "value": 17.06,
+              "id": "1et3zhr79m9y7fsgw"
+            },
+            {
+              "state": "Ohio",
+              "value": 19.72,
+              "id": "1et3zhr79m9y7fsgx"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 18.93,
+              "id": "1et3zhr79m9y7fsgy"
+            },
+            {
+              "state": "Oregon",
+              "value": 22.61,
+              "id": "1et3zhr79m9y7fsgz"
+            },
+            {
+              "state": "Pennsylvania",
+              "value": 18.76,
+              "id": "1et3zhr79m9y7fsh0"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 19.23,
+              "id": "1et3zhr79m9y7fsh1"
+            },
+            {
+              "state": "South Carolina",
+              "value": 18.12,
+              "id": "1et3zhr79m9y7fsh2"
+            },
+            {
+              "state": "South Dakota",
+              "value": 17.83,
+              "id": "1et3zhr79m9y7fsh3"
+            },
+            {
+              "state": "Tennessee",
+              "value": 19.63,
+              "id": "1et3zhr79m9y7fsh4"
+            },
+            {
+              "state": "Texas",
+              "value": 16.04,
+              "id": "1et3zhr79m9y7fsh5"
+            },
+            {
+              "state": "Utah",
+              "value": 22.27,
+              "id": "1et3zhr79m9y7fsh6"
+            },
+            {
+              "state": "Vermont",
+              "value": 20.85,
+              "id": "1et3zhr79m9y7fsh7"
+            },
+            {
+              "state": "Virginia",
+              "value": 19.96,
+              "id": "1et3zhr79m9y7fsh8"
+            },
+            {
+              "state": "Washington",
+              "value": 20.72,
+              "id": "1et3zhr79m9y7fsh9"
+            },
+            {
+              "state": "West Virginia",
+              "value": 20.9,
+              "id": "1et3zhr79m9y7fsha"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 18.51,
+              "id": "1et3zhr79m9y7fshb"
+            },
+            {
+              "state": "Wyoming",
+              "value": 19.46,
+              "id": "1et3zhr79m9y7fshc"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsfx"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsfw"
+    }
+  ],
+  "supportingIndicators": [
+    {
+      "title": "Access to care",
+      "citations": [
+        "Access by state is adjudicated by Mental Health America based on 9 metrics, and is discussed at https://mhanational.org/issues/mental-health-america-access-care-data"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 12,
+          "description": "of adults with a mental illness remain uninsured in 2019",
+          "id": "1et3zhr79m9y7fshe"
+        },
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 21,
+          "description": "of adults with a mental illness report they did not receive needed treatment",
+          "id": "1et3zhr79m9y7fshf"
+        },
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 62,
+          "description": "of youth with major depression do not receive treatment",
+          "id": "1et3zhr79m9y7fshg"
+        },
+        {
+          "type": "list",
+          "label": "Best access",
+          "list": [
+            "MA",
+            "VT",
+            "MN",
+            "ME",
+            "RI"
+          ],
+          "id": "1et3zhr79m9y7fshh"
+        },
+        {
+          "type": "list",
+          "label": "Poorest access",
+          "list": [
+            "MS",
+            "TX",
+            "SC",
+            "AL",
+            "NV"
+          ],
+          "id": "1et3zhr79m9y7fshi"
+        }
+      ],
+      "id": "1et3zhr79m9y7fshd"
+    },
+    {
+      "title": "Related topics",
+      "hide": true,
+      "indicators": [
+        {
+          "type": "link",
+          "text": "Financial barriers to seeing a doctor",
+          "link": "#",
+          "id": "1et3zhr79m9y7fshk"
+        },
+        {
+          "type": "link",
+          "text": "Substance abuse",
+          "link": "#",
+          "id": "1et3zhr79m9y7fshl"
+        }
+      ],
+      "id": "1et3zhr79m9y7fshj"
+    },
+    {
+      "title": "Loneliness",
+      "citations": [
+        "B. DiJulio, L. Hamel, C. Munana, and M. Brodie. “Loneliness and Social Isolation in the United States, the United Kingdom, and Japan: An International Survey.” <em>Henry J Kaiser Family Foundation</em>, Kaiser Family Foundation, Aug 30, 2018.https://www.kff.org/report-section/loneliness-and-social-isolation-in-the-united-states-the-united-kingdom-and-japan-an-international-survey-section-1/"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 22,
+          "description": "of adults report feeling lonely, left out, isolated, or lacking companionship",
+          "id": "1et3zhr79m9y7fshn"
+        }
+      ],
+      "id": "1et3zhr79m9y7fshm"
+    },
+    {
+      "title": "Mental health and race",
+      "citations": [
+        "“Annual Report.” <em>America's Health Rankings</em>, United Health Foundation, 2018. https://www.americashealthrankings.org/explore/annual/measure/MentalHealth/",
+        "Poor mental health days: mean days in the past 30 days adults reported their mental health was not good"
+      ],
+      "indicators": [
+        {
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "title": null,
+          "yAxisLabel": null,
+          "xAxisLabel": "poor mental health days reported per month",
+          "abbreviation": "",
+          "values": [
+            {
+              "name": "all",
+              "value": 3.9,
+              "id": "1et3zhr79m9y7fshq"
+            },
+            {
+              "name": "Multiracial",
+              "value": 6.1,
+              "id": "1et3zhr79m9y7fshr"
+            },
+            {
+              "name": "American Indian / Alaskan Native",
+              "value": 5.5,
+              "id": "1et3zhr79m9y7fshs"
+            },
+            {
+              "name": "Other race",
+              "value": 4.4,
+              "id": "1et3zhr79m9y7fsht"
+            },
+            {
+              "name": "Black",
+              "value": 4.2,
+              "id": "1et3zhr79m9y7fshu"
+            },
+            {
+              "name": "Hawaiian / Pacific Islander",
+              "value": 4.2,
+              "id": "1et3zhr79m9y7fshv"
+            },
+            {
+              "name": "White",
+              "value": 4,
+              "id": "1et3zhr79m9y7fshw"
+            },
+            {
+              "name": "Hispanic",
+              "value": 3.7,
+              "id": "1et3zhr79m9y7fshx"
+            },
+            {
+              "name": "Asian",
+              "value": 2.7,
+              "id": "1et3zhr79m9y7fshy"
+            }
+          ],
+          "id": "1et3zhr79m9y7fshp"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsho"
+    }
+  ],
+  "id": "1et3zhr79m9y7fsd4"
+}

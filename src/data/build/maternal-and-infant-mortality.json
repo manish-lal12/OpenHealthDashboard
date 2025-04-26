@@ -1,0 +1,1143 @@
+{
+  "title": "Maternal & Infant Mortality",
+  "description": "While worldwide maternal mortality drops, it is rising in the U.S. Moreover, the devastating loss of a mother or child disproportionately harms minority communities.",
+  "illustration": "maternal-health.svg",
+  "keyIndicators": [
+    {
+      "title": "Maternal mortality",
+      "stat": 21,
+      "description": "deaths per 100,000 live births in 2017",
+      "citations": [
+        "“Health of Women and Children.” <em>America's Health Rankings</em>, United Health Foundation, 2018. https://www.americashealthrankings.org/explore/health-of-women-and-children/measure/maternal_mortality",
+        "Health Status: Maternal and infant mortality.” <em>OECD.stat</em>, OECD. https://stats.oecd.org/index.aspx?queryid=30116"
+      ],
+      "lensData": [
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "maternal deaths per 100,000 live births",
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "USA",
+              "values": [
+                {
+                  "year": 2000,
+                  "value": 13.2,
+                  "id": "1et3zhr79m9y7fsi3"
+                },
+                {
+                  "year": 2001,
+                  "value": 14.7,
+                  "id": "1et3zhr79m9y7fsi4"
+                },
+                {
+                  "year": 2002,
+                  "value": 14.1,
+                  "id": "1et3zhr79m9y7fsi5"
+                },
+                {
+                  "year": 2003,
+                  "value": 16.8,
+                  "id": "1et3zhr79m9y7fsi6"
+                },
+                {
+                  "year": 2004,
+                  "value": 15.2,
+                  "id": "1et3zhr79m9y7fsi7"
+                },
+                {
+                  "year": 2005,
+                  "value": 15.4,
+                  "id": "1et3zhr79m9y7fsi8"
+                },
+                {
+                  "year": 2006,
+                  "value": 15.7,
+                  "id": "1et3zhr79m9y7fsi9"
+                },
+                {
+                  "year": 2007,
+                  "value": 14.5,
+                  "id": "1et3zhr79m9y7fsia"
+                },
+                {
+                  "year": 2008,
+                  "value": 15.5,
+                  "id": "1et3zhr79m9y7fsib"
+                },
+                {
+                  "year": 2009,
+                  "value": 17.8,
+                  "id": "1et3zhr79m9y7fsic"
+                },
+                {
+                  "year": 2010,
+                  "value": 16.7,
+                  "id": "1et3zhr79m9y7fsid"
+                },
+                {
+                  "year": 2011,
+                  "value": 17.8,
+                  "id": "1et3zhr79m9y7fsie"
+                },
+                {
+                  "year": 2012,
+                  "value": 15.9,
+                  "id": "1et3zhr79m9y7fsif"
+                },
+                {
+                  "year": 2013,
+                  "value": 17.3,
+                  "id": "1et3zhr79m9y7fsig"
+                },
+                {
+                  "year": 2014,
+                  "value": 18,
+                  "id": "1et3zhr79m9y7fsih"
+                },
+                {
+                  "year": 2015,
+                  "value": 17.2,
+                  "id": "1et3zhr79m9y7fsii"
+                },
+                {
+                  "year": 2016,
+                  "value": 19.9,
+                  "id": "1et3zhr79m9y7fsij"
+                },
+                {
+                  "year": 2018,
+                  "value": 20.7,
+                  "id": "1et3zhr79m9y7fsik"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsi2"
+            },
+            {
+              "label": "OECD Average",
+              "values": [
+                {
+                  "year": 2000,
+                  "value": 28,
+                  "id": "1et3zhr79m9y7fsim"
+                },
+                {
+                  "year": 2001,
+                  "value": 26,
+                  "id": "1et3zhr79m9y7fsin"
+                },
+                {
+                  "year": 2002,
+                  "value": 24,
+                  "id": "1et3zhr79m9y7fsio"
+                },
+                {
+                  "year": 2003,
+                  "value": 23,
+                  "id": "1et3zhr79m9y7fsip"
+                },
+                {
+                  "year": 2004,
+                  "value": 22,
+                  "id": "1et3zhr79m9y7fsiq"
+                },
+                {
+                  "year": 2005,
+                  "value": 21,
+                  "id": "1et3zhr79m9y7fsir"
+                },
+                {
+                  "year": 2006,
+                  "value": 20,
+                  "id": "1et3zhr79m9y7fsis"
+                },
+                {
+                  "year": 2007,
+                  "value": 19,
+                  "id": "1et3zhr79m9y7fsit"
+                },
+                {
+                  "year": 2008,
+                  "value": 18,
+                  "id": "1et3zhr79m9y7fsiu"
+                },
+                {
+                  "year": 2009,
+                  "value": 18,
+                  "id": "1et3zhr79m9y7fsiv"
+                },
+                {
+                  "year": 2010,
+                  "value": 17,
+                  "id": "1et3zhr79m9y7fsiw"
+                },
+                {
+                  "year": 2011,
+                  "value": 16,
+                  "id": "1et3zhr79m9y7fsix"
+                },
+                {
+                  "year": 2012,
+                  "value": 16,
+                  "id": "1et3zhr79m9y7fsiy"
+                },
+                {
+                  "year": 2013,
+                  "value": 15,
+                  "id": "1et3zhr79m9y7fsiz"
+                },
+                {
+                  "year": 2014,
+                  "value": 15,
+                  "id": "1et3zhr79m9y7fsj0"
+                },
+                {
+                  "year": 2015,
+                  "value": 14,
+                  "id": "1et3zhr79m9y7fsj1"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsil"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsi1"
+        },
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "maternal deaths per 100,000 live births",
+          "values": [
+            {
+              "state": "Alabama",
+              "value": 11.9,
+              "id": "1et3zhr79m9y7fsj3"
+            },
+            {
+              "state": "Alaska",
+              "value": null,
+              "id": "1et3zhr79m9y7fsj4"
+            },
+            {
+              "state": "Arizona",
+              "value": 18.8,
+              "id": "1et3zhr79m9y7fsj5"
+            },
+            {
+              "state": "Arkansas",
+              "value": 34.8,
+              "id": "1et3zhr79m9y7fsj6"
+            },
+            {
+              "state": "California",
+              "value": 4.5,
+              "id": "1et3zhr79m9y7fsj7"
+            },
+            {
+              "state": "Colorado",
+              "value": 11.3,
+              "id": "1et3zhr79m9y7fsj8"
+            },
+            {
+              "state": "Connecticut",
+              "value": 13.2,
+              "id": "1et3zhr79m9y7fsj9"
+            },
+            {
+              "state": "Delaware",
+              "value": 14,
+              "id": "1et3zhr79m9y7fsja"
+            },
+            {
+              "state": "District of Columbia",
+              "value": 36.1,
+              "id": "1et3zhr79m9y7fsjb"
+            },
+            {
+              "state": "Florida",
+              "value": 23.8,
+              "id": "1et3zhr79m9y7fsjc"
+            },
+            {
+              "state": "Georgia",
+              "value": 46.2,
+              "id": "1et3zhr79m9y7fsjd"
+            },
+            {
+              "state": "Hawaii",
+              "value": 11.7,
+              "id": "1et3zhr79m9y7fsje"
+            },
+            {
+              "state": "Idaho",
+              "value": 21.2,
+              "id": "1et3zhr79m9y7fsjf"
+            },
+            {
+              "state": "Illinois",
+              "value": 16.6,
+              "id": "1et3zhr79m9y7fsjg"
+            },
+            {
+              "state": "Indiana",
+              "value": 41.4,
+              "id": "1et3zhr79m9y7fsjh"
+            },
+            {
+              "state": "Iowa",
+              "value": 17.9,
+              "id": "1et3zhr79m9y7fsji"
+            },
+            {
+              "state": "Kansas",
+              "value": 17.7,
+              "id": "1et3zhr79m9y7fsjj"
+            },
+            {
+              "state": "Kentucky",
+              "value": 19.4,
+              "id": "1et3zhr79m9y7fsjk"
+            },
+            {
+              "state": "Louisiana",
+              "value": 44.8,
+              "id": "1et3zhr79m9y7fsjl"
+            },
+            {
+              "state": "Maine",
+              "value": 15.7,
+              "id": "1et3zhr79m9y7fsjm"
+            },
+            {
+              "state": "Maryland",
+              "value": 23.5,
+              "id": "1et3zhr79m9y7fsjn"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 6.1,
+              "id": "1et3zhr79m9y7fsjo"
+            },
+            {
+              "state": "Michigan",
+              "value": 19.4,
+              "id": "1et3zhr79m9y7fsjp"
+            },
+            {
+              "state": "Minnesota",
+              "value": 13,
+              "id": "1et3zhr79m9y7fsjq"
+            },
+            {
+              "state": "Mississippi",
+              "value": 22.6,
+              "id": "1et3zhr79m9y7fsjr"
+            },
+            {
+              "state": "Missouri",
+              "value": 32.6,
+              "id": "1et3zhr79m9y7fsjs"
+            },
+            {
+              "state": "Montana",
+              "value": 24.4,
+              "id": "1et3zhr79m9y7fsjt"
+            },
+            {
+              "state": "Nebraska",
+              "value": 16.8,
+              "id": "1et3zhr79m9y7fsju"
+            },
+            {
+              "state": "Nevada",
+              "value": 6.2,
+              "id": "1et3zhr79m9y7fsjv"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 16.8,
+              "id": "1et3zhr79m9y7fsjw"
+            },
+            {
+              "state": "New Jersey",
+              "value": 38.1,
+              "id": "1et3zhr79m9y7fsjx"
+            },
+            {
+              "state": "New Mexico",
+              "value": 25.6,
+              "id": "1et3zhr79m9y7fsjy"
+            },
+            {
+              "state": "New York",
+              "value": 20.6,
+              "id": "1et3zhr79m9y7fsjz"
+            },
+            {
+              "state": "North Carolina",
+              "value": 15.8,
+              "id": "1et3zhr79m9y7fsk0"
+            },
+            {
+              "state": "North Dakota",
+              "value": 18.9,
+              "id": "1et3zhr79m9y7fsk1"
+            },
+            {
+              "state": "Ohio",
+              "value": 20.3,
+              "id": "1et3zhr79m9y7fsk2"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 23.4,
+              "id": "1et3zhr79m9y7fsk3"
+            },
+            {
+              "state": "Oregon",
+              "value": 13.7,
+              "id": "1et3zhr79m9y7fsk4"
+            },
+            {
+              "state": "Pennsylvania",
+              "value": 16.3,
+              "id": "1et3zhr79m9y7fsk5"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 18.3,
+              "id": "1et3zhr79m9y7fsk6"
+            },
+            {
+              "state": "South Carolina",
+              "value": 26.5,
+              "id": "1et3zhr79m9y7fsk7"
+            },
+            {
+              "state": "South Dakota",
+              "value": 28,
+              "id": "1et3zhr79m9y7fsk8"
+            },
+            {
+              "state": "Tennessee",
+              "value": 23.3,
+              "id": "1et3zhr79m9y7fsk9"
+            },
+            {
+              "state": "Texas",
+              "value": 34.2,
+              "id": "1et3zhr79m9y7fska"
+            },
+            {
+              "state": "Utah",
+              "value": 16.8,
+              "id": "1et3zhr79m9y7fskb"
+            },
+            {
+              "state": "Vermont",
+              "value": null,
+              "id": "1et3zhr79m9y7fskc"
+            },
+            {
+              "state": "Virginia",
+              "value": 15.6,
+              "id": "1et3zhr79m9y7fskd"
+            },
+            {
+              "state": "Washington",
+              "value": 14.8,
+              "id": "1et3zhr79m9y7fske"
+            },
+            {
+              "state": "West Virginia",
+              "value": 11.7,
+              "id": "1et3zhr79m9y7fskf"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 14.3,
+              "id": "1et3zhr79m9y7fskg"
+            },
+            {
+              "state": "Wyoming",
+              "value": 24.6,
+              "id": "1et3zhr79m9y7fskh"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsj2"
+        },
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "yAxisLabel": null,
+          "xAxisLabel": "maternal deaths per 100,000 live births",
+          "values": [
+            {
+              "name": "Black",
+              "value": 47.2,
+              "id": "1et3zhr79m9y7fskj"
+            },
+            {
+              "name": "American Indian / Alaskan Native",
+              "value": 38.8,
+              "id": "1et3zhr79m9y7fskk"
+            },
+            {
+              "name": "White",
+              "value": 18.1,
+              "id": "1et3zhr79m9y7fskl"
+            },
+            {
+              "name": "Hispanic",
+              "value": 12.1,
+              "id": "1et3zhr79m9y7fskm"
+            },
+            {
+              "name": "Asian/Pacific Islander",
+              "value": 11.6,
+              "id": "1et3zhr79m9y7fskn"
+            }
+          ],
+          "id": "1et3zhr79m9y7fski"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsi0"
+    },
+    {
+      "title": "Infant mortality",
+      "stat": 590,
+      "description": "deaths per 100,000 live births in 2017",
+      "citations": [
+        "“Health of Women and Children.” <em>America's Health Rankings</em>, United Health Foundation, 2018. https://www.americashealthrankings.org/explore/health-of-women-and-children/measure/IMR_MCH/state/ALL"
+      ],
+      "lensData": [
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "infant deaths per 100,000 live births",
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "USA",
+              "values": [
+                {
+                  "year": 2000,
+                  "value": 720,
+                  "id": "1et3zhr79m9y7fskr"
+                },
+                {
+                  "year": 2001,
+                  "value": 710,
+                  "id": "1et3zhr79m9y7fsks"
+                },
+                {
+                  "year": 2002,
+                  "value": 700,
+                  "id": "1et3zhr79m9y7fskt"
+                },
+                {
+                  "year": 2003,
+                  "value": 690,
+                  "id": "1et3zhr79m9y7fsku"
+                },
+                {
+                  "year": 2004,
+                  "value": 680,
+                  "id": "1et3zhr79m9y7fskv"
+                },
+                {
+                  "year": 2005,
+                  "value": 670,
+                  "id": "1et3zhr79m9y7fskw"
+                },
+                {
+                  "year": 2006,
+                  "value": 670,
+                  "id": "1et3zhr79m9y7fskx"
+                },
+                {
+                  "year": 2007,
+                  "value": 680,
+                  "id": "1et3zhr79m9y7fsky"
+                },
+                {
+                  "year": 2008,
+                  "value": 680,
+                  "id": "1et3zhr79m9y7fskz"
+                },
+                {
+                  "year": 2009,
+                  "value": 670,
+                  "id": "1et3zhr79m9y7fsl0"
+                },
+                {
+                  "year": 2010,
+                  "value": 670,
+                  "id": "1et3zhr79m9y7fsl1"
+                },
+                {
+                  "year": 2011,
+                  "value": 650,
+                  "id": "1et3zhr79m9y7fsl2"
+                },
+                {
+                  "year": 2012,
+                  "value": 630,
+                  "id": "1et3zhr79m9y7fsl3"
+                },
+                {
+                  "year": 2013,
+                  "value": 610,
+                  "id": "1et3zhr79m9y7fsl4"
+                },
+                {
+                  "year": 2014,
+                  "value": 600,
+                  "id": "1et3zhr79m9y7fsl5"
+                },
+                {
+                  "year": 2015,
+                  "value": 600,
+                  "id": "1et3zhr79m9y7fsl6"
+                },
+                {
+                  "year": 2016,
+                  "value": 590,
+                  "id": "1et3zhr79m9y7fsl7"
+                },
+                {
+                  "year": 2017,
+                  "value": 590,
+                  "id": "1et3zhr79m9y7fsl8"
+                },
+                {
+                  "year": 2018,
+                  "value": 590,
+                  "id": "1et3zhr79m9y7fsl9"
+                }
+              ],
+              "id": "1et3zhr79m9y7fskq"
+            },
+            {
+              "label": "OECD Average",
+              "values": [
+                {
+                  "year": 2000,
+                  "value": 1078,
+                  "id": "1et3zhr79m9y7fslb"
+                },
+                {
+                  "year": 2001,
+                  "value": 1029,
+                  "id": "1et3zhr79m9y7fslc"
+                },
+                {
+                  "year": 2002,
+                  "value": 983,
+                  "id": "1et3zhr79m9y7fsld"
+                },
+                {
+                  "year": 2003,
+                  "value": 940,
+                  "id": "1et3zhr79m9y7fsle"
+                },
+                {
+                  "year": 2004,
+                  "value": 901,
+                  "id": "1et3zhr79m9y7fslf"
+                },
+                {
+                  "year": 2005,
+                  "value": 861,
+                  "id": "1et3zhr79m9y7fslg"
+                },
+                {
+                  "year": 2006,
+                  "value": 827,
+                  "id": "1et3zhr79m9y7fslh"
+                },
+                {
+                  "year": 2007,
+                  "value": 795,
+                  "id": "1et3zhr79m9y7fsli"
+                },
+                {
+                  "year": 2008,
+                  "value": 767,
+                  "id": "1et3zhr79m9y7fslj"
+                },
+                {
+                  "year": 2009,
+                  "value": 741,
+                  "id": "1et3zhr79m9y7fslk"
+                },
+                {
+                  "year": 2010,
+                  "value": 713,
+                  "id": "1et3zhr79m9y7fsll"
+                },
+                {
+                  "year": 2011,
+                  "value": 691,
+                  "id": "1et3zhr79m9y7fslm"
+                },
+                {
+                  "year": 2012,
+                  "value": 669,
+                  "id": "1et3zhr79m9y7fsln"
+                },
+                {
+                  "year": 2013,
+                  "value": 649,
+                  "id": "1et3zhr79m9y7fslo"
+                },
+                {
+                  "year": 2014,
+                  "value": 630,
+                  "id": "1et3zhr79m9y7fslp"
+                },
+                {
+                  "year": 2015,
+                  "value": 611,
+                  "id": "1et3zhr79m9y7fslq"
+                },
+                {
+                  "year": 2016,
+                  "value": 593,
+                  "id": "1et3zhr79m9y7fslr"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsla"
+            }
+          ],
+          "id": "1et3zhr79m9y7fskp"
+        },
+        {
+          "lensType": "state",
+          "type": "map",
+          "scaleLabel": "infant deaths per 100,000 live births",
+          "values": [
+            {
+              "state": "Alabama",
+              "value": 850,
+              "id": "1et3zhr79m9y7fslt"
+            },
+            {
+              "state": "Alaska",
+              "value": 680,
+              "id": "1et3zhr79m9y7fslu"
+            },
+            {
+              "state": "Arizona",
+              "value": 580,
+              "id": "1et3zhr79m9y7fslv"
+            },
+            {
+              "state": "Arkansas",
+              "value": 740,
+              "id": "1et3zhr79m9y7fslw"
+            },
+            {
+              "state": "California",
+              "value": 440,
+              "id": "1et3zhr79m9y7fslx"
+            },
+            {
+              "state": "Colorado",
+              "value": 470,
+              "id": "1et3zhr79m9y7fsly"
+            },
+            {
+              "state": "Connecticut",
+              "value": 520,
+              "id": "1et3zhr79m9y7fslz"
+            },
+            {
+              "state": "Delaware",
+              "value": 800,
+              "id": "1et3zhr79m9y7fsm0"
+            },
+            {
+              "state": "District of Columbia",
+              "value": 810,
+              "id": "1et3zhr79m9y7fsm1"
+            },
+            {
+              "state": "Florida",
+              "value": 620,
+              "id": "1et3zhr79m9y7fsm2"
+            },
+            {
+              "state": "Georgia",
+              "value": 770,
+              "id": "1et3zhr79m9y7fsm3"
+            },
+            {
+              "state": "Hawaii",
+              "value": 510,
+              "id": "1et3zhr79m9y7fsm4"
+            },
+            {
+              "state": "Idaho",
+              "value": 500,
+              "id": "1et3zhr79m9y7fsm5"
+            },
+            {
+              "state": "Illinois",
+              "value": 630,
+              "id": "1et3zhr79m9y7fsm6"
+            },
+            {
+              "state": "Indiana",
+              "value": 720,
+              "id": "1et3zhr79m9y7fsm7"
+            },
+            {
+              "state": "Iowa",
+              "value": 450,
+              "id": "1et3zhr79m9y7fsm8"
+            },
+            {
+              "state": "Kansas",
+              "value": 610,
+              "id": "1et3zhr79m9y7fsm9"
+            },
+            {
+              "state": "Kentucky",
+              "value": 690,
+              "id": "1et3zhr79m9y7fsma"
+            },
+            {
+              "state": "Louisiana",
+              "value": 750,
+              "id": "1et3zhr79m9y7fsmb"
+            },
+            {
+              "state": "Maine",
+              "value": 660,
+              "id": "1et3zhr79m9y7fsmc"
+            },
+            {
+              "state": "Maryland",
+              "value": 650,
+              "id": "1et3zhr79m9y7fsmd"
+            },
+            {
+              "state": "Massachusetts",
+              "value": 430,
+              "id": "1et3zhr79m9y7fsme"
+            },
+            {
+              "state": "Michigan",
+              "value": 650,
+              "id": "1et3zhr79m9y7fsmf"
+            },
+            {
+              "state": "Minnesota",
+              "value": 510,
+              "id": "1et3zhr79m9y7fsmg"
+            },
+            {
+              "state": "Mississippi",
+              "value": 880,
+              "id": "1et3zhr79m9y7fsmh"
+            },
+            {
+              "state": "Missouri",
+              "value": 630,
+              "id": "1et3zhr79m9y7fsmi"
+            },
+            {
+              "state": "Montana",
+              "value": 580,
+              "id": "1et3zhr79m9y7fsmj"
+            },
+            {
+              "state": "Nebraska",
+              "value": 540,
+              "id": "1et3zhr79m9y7fsmk"
+            },
+            {
+              "state": "Nevada",
+              "value": 540,
+              "id": "1et3zhr79m9y7fsml"
+            },
+            {
+              "state": "New Hampshire",
+              "value": 420,
+              "id": "1et3zhr79m9y7fsmm"
+            },
+            {
+              "state": "New Jersey",
+              "value": 450,
+              "id": "1et3zhr79m9y7fsmn"
+            },
+            {
+              "state": "New Mexico",
+              "value": 520,
+              "id": "1et3zhr79m9y7fsmo"
+            },
+            {
+              "state": "New York",
+              "value": 460,
+              "id": "1et3zhr79m9y7fsmp"
+            },
+            {
+              "state": "North Carolina",
+              "value": 730,
+              "id": "1et3zhr79m9y7fsmq"
+            },
+            {
+              "state": "North Dakota",
+              "value": 610,
+              "id": "1et3zhr79m9y7fsmr"
+            },
+            {
+              "state": "Ohio",
+              "value": 700,
+              "id": "1et3zhr79m9y7fsms"
+            },
+            {
+              "state": "Oklahoma",
+              "value": 780,
+              "id": "1et3zhr79m9y7fsmt"
+            },
+            {
+              "state": "Oregon",
+              "value": 510,
+              "id": "1et3zhr79m9y7fsmu"
+            },
+            {
+              "state": "Pennsylvania",
+              "value": 600,
+              "id": "1et3zhr79m9y7fsmv"
+            },
+            {
+              "state": "Rhode Island",
+              "value": 520,
+              "id": "1et3zhr79m9y7fsmw"
+            },
+            {
+              "state": "South Carolina",
+              "value": 670,
+              "id": "1et3zhr79m9y7fsmx"
+            },
+            {
+              "state": "South Dakota",
+              "value": 650,
+              "id": "1et3zhr79m9y7fsmy"
+            },
+            {
+              "state": "Tennessee",
+              "value": 690,
+              "id": "1et3zhr79m9y7fsmz"
+            },
+            {
+              "state": "Texas",
+              "value": 580,
+              "id": "1et3zhr79m9y7fsn0"
+            },
+            {
+              "state": "Utah",
+              "value": 500,
+              "id": "1et3zhr79m9y7fsn1"
+            },
+            {
+              "state": "Vermont",
+              "value": 460,
+              "id": "1et3zhr79m9y7fsn2"
+            },
+            {
+              "state": "Virginia",
+              "value": 580,
+              "id": "1et3zhr79m9y7fsn3"
+            },
+            {
+              "state": "Washington",
+              "value": 470,
+              "id": "1et3zhr79m9y7fsn4"
+            },
+            {
+              "state": "West Virginia",
+              "value": 700,
+              "id": "1et3zhr79m9y7fsn5"
+            },
+            {
+              "state": "Wisconsin",
+              "value": 580,
+              "id": "1et3zhr79m9y7fsn6"
+            },
+            {
+              "state": "Wyoming",
+              "value": 560,
+              "id": "1et3zhr79m9y7fsn7"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsls"
+        },
+        {
+          "lensType": "demogr",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "yAxisLabel": null,
+          "xAxisLabel": "infant deaths per 100,000 live births",
+          "values": [
+            {
+              "name": "Non-Hispanic Black",
+              "value": 1140,
+              "id": "1et3zhr79m9y7fsn9"
+            },
+            {
+              "name": "American Indian / Alaska Native",
+              "value": 940,
+              "id": "1et3zhr79m9y7fsna"
+            },
+            {
+              "name": "Native Hawaiian or other Pacific Islander",
+              "value": 740,
+              "id": "1et3zhr79m9y7fsnb"
+            },
+            {
+              "name": "Hispanic",
+              "value": 500,
+              "id": "1et3zhr79m9y7fsnc"
+            },
+            {
+              "name": "Non-Hispanic White",
+              "value": 490,
+              "id": "1et3zhr79m9y7fsnd"
+            },
+            {
+              "name": "Asian",
+              "value": 360,
+              "id": "1et3zhr79m9y7fsne"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsn8"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsko"
+    }
+  ],
+  "supportingIndicators": [
+    {
+      "title": "Infant mortality risk factors",
+      "indicators": [
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 8,
+          "description": "of women drink alcohol during their last trimester of pregnancy",
+          "id": "1et3zhr79m9y7fsng"
+        },
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 7.8,
+          "description": "of women smoke tobacco during pregnancy",
+          "id": "1et3zhr79m9y7fsnh"
+        },
+        {
+          "type": "chart",
+          "chartType": "bar",
+          "title": "Infant mortality and mother's age",
+          "yAxisLabel": "infant deaths per 100,000 live births",
+          "xAxisLabel": "mother's age in years",
+          "values": [
+            {
+              "name": "15-19",
+              "value": 8.3,
+              "id": "1et3zhr79m9y7fsnj"
+            },
+            {
+              "name": "20-24",
+              "value": 6.9,
+              "id": "1et3zhr79m9y7fsnk"
+            },
+            {
+              "name": "25-29",
+              "value": 5.6,
+              "id": "1et3zhr79m9y7fsnl"
+            },
+            {
+              "name": "30-34",
+              "value": 4.8,
+              "id": "1et3zhr79m9y7fsnm"
+            },
+            {
+              "name": "35-39",
+              "value": 5.3,
+              "id": "1et3zhr79m9y7fsnn"
+            },
+            {
+              "name": "40-44",
+              "value": 7.4,
+              "id": "1et3zhr79m9y7fsno"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsni"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsnf"
+    },
+    {
+      "title": "Maternal mortality risk factors",
+      "hide": true,
+      "indicators": [
+        {
+          "type": "link",
+          "text": "Diabetes",
+          "link": "#",
+          "id": "1et3zhr79m9y7fsnq"
+        },
+        {
+          "type": "link",
+          "text": "Insurance coverage",
+          "link": "#",
+          "id": "1et3zhr79m9y7fsnr"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsnp"
+    },
+    {
+      "title": "Low birthweight",
+      "citations": [
+        "“Health of Women and Children.” <em>America's Health Rankings</em>, United Health Foundation, 2018. https://www.americashealthrankings.org/explore/health-of-women-and-children/measure/lowbirthweight_MCH/state/ALL",
+        "The World Health Organization defines low birthweight as 2,499 g or less, equivalent to 5 lbs. 8 oz."
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 8.1,
+          "description": "of births in the US are below 5 lbs. 8 oz.",
+          "id": "1et3zhr79m9y7fsnt"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsns"
+    },
+    {
+      "title": "Preterm birth",
+      "citations": [
+        "“Health of Women and Children.” <em>America's Health Rankings</em>, United Health Foundation, 2018. https://www.americashealthrankings.org/explore/health-of-women-and-children/measure/pretermbirth_MCH/state/ALL",
+        "The World Health Organization defines preterm birth as occuring before the 37th week of pregnancy."
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 9.6,
+          "description": "of births in the US occurred before 37 weeks gestation in 2018",
+          "id": "1et3zhr79m9y7fsnv"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsnu"
+    }
+  ],
+  "id": "1et3zhr79m9y7fshz"
+}

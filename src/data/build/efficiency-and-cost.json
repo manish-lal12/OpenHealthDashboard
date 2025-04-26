@@ -1,0 +1,1483 @@
+{
+  "title": "Cost & Efficiency",
+  "description": "Americans spent $3.5 trillion on healthcare in 2017, more than any other nation. Yet, our outcomes are lacking. Are we getting a good deal?",
+  "illustration": "costs.svg",
+  "keyIndicators": [
+    {
+      "title": "Healthcare expenditure",
+      "stat": 10.6,
+      "prefix": "$",
+      "abbreviation": "k",
+      "description": "spent per capita on healthcare in 2018",
+      "citations": [
+        "“Health spending.” <em>OECD Data</em>, OECD. https://data.oecd.org/healthres/health-spending.htm"
+      ],
+      "lensData": [
+        {
+          "lensType": "global",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "yAxisLabel": null,
+          "xAxisLabel": "$ spent per capita on healthcare",
+          "abbreviation": "k",
+          "values": [
+            {
+              "name": "United States",
+              "value": 10.6,
+              "id": "1et3zhr79m9y7fsnz"
+            },
+            {
+              "name": "Switzerland",
+              "value": 7.3,
+              "id": "1et3zhr79m9y7fso0"
+            },
+            {
+              "name": "Norway",
+              "value": 6.2,
+              "id": "1et3zhr79m9y7fso1"
+            },
+            {
+              "name": "Germany",
+              "value": 6,
+              "id": "1et3zhr79m9y7fso2"
+            },
+            {
+              "name": "Sweden",
+              "value": 5.4,
+              "id": "1et3zhr79m9y7fso3"
+            },
+            {
+              "name": "Austria",
+              "value": 5.4,
+              "id": "1et3zhr79m9y7fso4"
+            },
+            {
+              "name": "Denmark",
+              "value": 5.3,
+              "id": "1et3zhr79m9y7fso5"
+            },
+            {
+              "name": "Netherlands",
+              "value": 5.3,
+              "id": "1et3zhr79m9y7fso6"
+            },
+            {
+              "name": "Luxembourg",
+              "value": 5.1,
+              "id": "1et3zhr79m9y7fso7"
+            },
+            {
+              "name": "Australia",
+              "value": 5,
+              "id": "1et3zhr79m9y7fso8"
+            },
+            {
+              "name": "Canada",
+              "value": 5,
+              "id": "1et3zhr79m9y7fso9"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsny"
+        },
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "per capita expenditure on healthcare ($)",
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "USA",
+              "values": [
+                {
+                  "year": 1970,
+                  "value": 327,
+                  "id": "1et3zhr79m9y7fsoc"
+                },
+                {
+                  "year": 1971,
+                  "value": 358,
+                  "id": "1et3zhr79m9y7fsod"
+                },
+                {
+                  "year": 1972,
+                  "value": 397.1,
+                  "id": "1et3zhr79m9y7fsoe"
+                },
+                {
+                  "year": 1973,
+                  "value": 439.3,
+                  "id": "1et3zhr79m9y7fsof"
+                },
+                {
+                  "year": 1974,
+                  "value": 495.1,
+                  "id": "1et3zhr79m9y7fsog"
+                },
+                {
+                  "year": 1975,
+                  "value": 560.8,
+                  "id": "1et3zhr79m9y7fsoh"
+                },
+                {
+                  "year": 1976,
+                  "value": 638.9,
+                  "id": "1et3zhr79m9y7fsoi"
+                },
+                {
+                  "year": 1977,
+                  "value": 726.2,
+                  "id": "1et3zhr79m9y7fsoj"
+                },
+                {
+                  "year": 1978,
+                  "value": 808.9,
+                  "id": "1et3zhr79m9y7fsok"
+                },
+                {
+                  "year": 1979,
+                  "value": 909,
+                  "id": "1et3zhr79m9y7fsol"
+                },
+                {
+                  "year": 1980,
+                  "value": 1036.3,
+                  "id": "1et3zhr79m9y7fsom"
+                },
+                {
+                  "year": 1981,
+                  "value": 1191.5,
+                  "id": "1et3zhr79m9y7fson"
+                },
+                {
+                  "year": 1982,
+                  "value": 1329.7,
+                  "id": "1et3zhr79m9y7fsoo"
+                },
+                {
+                  "year": 1983,
+                  "value": 1451.9,
+                  "id": "1et3zhr79m9y7fsop"
+                },
+                {
+                  "year": 1984,
+                  "value": 1590.7,
+                  "id": "1et3zhr79m9y7fsoq"
+                },
+                {
+                  "year": 1985,
+                  "value": 1735.2,
+                  "id": "1et3zhr79m9y7fsor"
+                },
+                {
+                  "year": 1986,
+                  "value": 1847.8,
+                  "id": "1et3zhr79m9y7fsos"
+                },
+                {
+                  "year": 1987,
+                  "value": 1990.5,
+                  "id": "1et3zhr79m9y7fsot"
+                },
+                {
+                  "year": 1988,
+                  "value": 2210.7,
+                  "id": "1et3zhr79m9y7fsou"
+                },
+                {
+                  "year": 1989,
+                  "value": 2440.1,
+                  "id": "1et3zhr79m9y7fsov"
+                },
+                {
+                  "year": 1990,
+                  "value": 2700.4,
+                  "id": "1et3zhr79m9y7fsow"
+                },
+                {
+                  "year": 1991,
+                  "value": 2916,
+                  "id": "1et3zhr79m9y7fsox"
+                },
+                {
+                  "year": 1992,
+                  "value": 3113.8,
+                  "id": "1et3zhr79m9y7fsoy"
+                },
+                {
+                  "year": 1993,
+                  "value": 3300,
+                  "id": "1et3zhr79m9y7fsoz"
+                },
+                {
+                  "year": 1994,
+                  "value": 3442,
+                  "id": "1et3zhr79m9y7fsp0"
+                },
+                {
+                  "year": 1995,
+                  "value": 3598.4,
+                  "id": "1et3zhr79m9y7fsp1"
+                },
+                {
+                  "year": 1996,
+                  "value": 3747.6,
+                  "id": "1et3zhr79m9y7fsp2"
+                },
+                {
+                  "year": 1997,
+                  "value": 3905.4,
+                  "id": "1et3zhr79m9y7fsp3"
+                },
+                {
+                  "year": 1998,
+                  "value": 4093.1,
+                  "id": "1et3zhr79m9y7fsp4"
+                },
+                {
+                  "year": 1999,
+                  "value": 4289.6,
+                  "id": "1et3zhr79m9y7fsp5"
+                },
+                {
+                  "year": 2000,
+                  "value": 4557.2,
+                  "id": "1et3zhr79m9y7fsp6"
+                },
+                {
+                  "year": 2001,
+                  "value": 4908.7,
+                  "id": "1et3zhr79m9y7fsp7"
+                },
+                {
+                  "year": 2002,
+                  "value": 5326.1,
+                  "id": "1et3zhr79m9y7fsp8"
+                },
+                {
+                  "year": 2003,
+                  "value": 5735.5,
+                  "id": "1et3zhr79m9y7fsp9"
+                },
+                {
+                  "year": 2004,
+                  "value": 6094.2,
+                  "id": "1et3zhr79m9y7fspa"
+                },
+                {
+                  "year": 2005,
+                  "value": 6443.3,
+                  "id": "1et3zhr79m9y7fspb"
+                },
+                {
+                  "year": 2006,
+                  "value": 6807.1,
+                  "id": "1et3zhr79m9y7fspc"
+                },
+                {
+                  "year": 2007,
+                  "value": 7160.7,
+                  "id": "1et3zhr79m9y7fspd"
+                },
+                {
+                  "year": 2008,
+                  "value": 7403.1,
+                  "id": "1et3zhr79m9y7fspe"
+                },
+                {
+                  "year": 2009,
+                  "value": 7682,
+                  "id": "1et3zhr79m9y7fspf"
+                },
+                {
+                  "year": 2010,
+                  "value": 7939.3,
+                  "id": "1et3zhr79m9y7fspg"
+                },
+                {
+                  "year": 2011,
+                  "value": 8154.4,
+                  "id": "1et3zhr79m9y7fsph"
+                },
+                {
+                  "year": 2012,
+                  "value": 8423.3,
+                  "id": "1et3zhr79m9y7fspi"
+                },
+                {
+                  "year": 2013,
+                  "value": 8628.6,
+                  "id": "1et3zhr79m9y7fspj"
+                },
+                {
+                  "year": 2014,
+                  "value": 9042.3,
+                  "id": "1et3zhr79m9y7fspk"
+                },
+                {
+                  "year": 2015,
+                  "value": 9505.1,
+                  "id": "1et3zhr79m9y7fspl"
+                },
+                {
+                  "year": 2016,
+                  "value": 9903.7,
+                  "id": "1et3zhr79m9y7fspm"
+                },
+                {
+                  "year": 2017,
+                  "value": 10206.5,
+                  "id": "1et3zhr79m9y7fspn"
+                },
+                {
+                  "year": 2018,
+                  "value": 10586.1,
+                  "id": "1et3zhr79m9y7fspo"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsob"
+            },
+            {
+              "label": "OECD Average",
+              "values": [
+                {
+                  "year": 2003,
+                  "value": 2210.5,
+                  "id": "1et3zhr79m9y7fspq"
+                },
+                {
+                  "year": 2004,
+                  "value": 2352.9,
+                  "id": "1et3zhr79m9y7fspr"
+                },
+                {
+                  "year": 2005,
+                  "value": 2439.4,
+                  "id": "1et3zhr79m9y7fsps"
+                },
+                {
+                  "year": 2006,
+                  "value": 2580.4,
+                  "id": "1et3zhr79m9y7fspt"
+                },
+                {
+                  "year": 2007,
+                  "value": 2733.4,
+                  "id": "1et3zhr79m9y7fspu"
+                },
+                {
+                  "year": 2008,
+                  "value": 2905.8,
+                  "id": "1et3zhr79m9y7fspv"
+                },
+                {
+                  "year": 2009,
+                  "value": 2998.9,
+                  "id": "1et3zhr79m9y7fspw"
+                },
+                {
+                  "year": 2010,
+                  "value": 3079.9,
+                  "id": "1et3zhr79m9y7fspx"
+                },
+                {
+                  "year": 2011,
+                  "value": 3164.6,
+                  "id": "1et3zhr79m9y7fspy"
+                },
+                {
+                  "year": 2012,
+                  "value": 3283.2,
+                  "id": "1et3zhr79m9y7fspz"
+                },
+                {
+                  "year": 2013,
+                  "value": 3403.6,
+                  "id": "1et3zhr79m9y7fsq0"
+                },
+                {
+                  "year": 2014,
+                  "value": 3480.5,
+                  "id": "1et3zhr79m9y7fsq1"
+                },
+                {
+                  "year": 2015,
+                  "value": 3586.1,
+                  "id": "1et3zhr79m9y7fsq2"
+                },
+                {
+                  "year": 2016,
+                  "value": 3715.2,
+                  "id": "1et3zhr79m9y7fsq3"
+                },
+                {
+                  "year": 2017,
+                  "value": 3854.4,
+                  "id": "1et3zhr79m9y7fsq4"
+                },
+                {
+                  "year": 2018,
+                  "value": 3992.3,
+                  "id": "1et3zhr79m9y7fsq5"
+                }
+              ],
+              "id": "1et3zhr79m9y7fspp"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsoa"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsnx"
+    },
+    {
+      "title": "Healthcare expenditure ",
+      "stat": 17,
+      "abbreviation": "%",
+      "description": "of total GDP spent on healthcare in 2018",
+      "lensData": [
+        {
+          "lensType": "global",
+          "type": "chart",
+          "chartType": "barHorizontal",
+          "yAxisLabel": null,
+          "xAxisLabel": "% GDP spent on healthcare",
+          "abbreviation": "%",
+          "values": [
+            {
+              "name": "United States",
+              "value": 17,
+              "id": "1et3zhr79m9y7fsq8"
+            },
+            {
+              "name": "Switzerland",
+              "value": 12,
+              "id": "1et3zhr79m9y7fsq9"
+            },
+            {
+              "name": "France",
+              "value": 11,
+              "id": "1et3zhr79m9y7fsqa"
+            },
+            {
+              "name": "Germany",
+              "value": 11,
+              "id": "1et3zhr79m9y7fsqb"
+            },
+            {
+              "name": "Japan",
+              "value": 11,
+              "id": "1et3zhr79m9y7fsqc"
+            },
+            {
+              "name": "Canada",
+              "value": 10,
+              "id": "1et3zhr79m9y7fsqd"
+            },
+            {
+              "name": "Austria",
+              "value": 10,
+              "id": "1et3zhr79m9y7fsqe"
+            },
+            {
+              "name": "Netherlands",
+              "value": 10,
+              "id": "1et3zhr79m9y7fsqf"
+            },
+            {
+              "name": "Belgium",
+              "value": 10,
+              "id": "1et3zhr79m9y7fsqg"
+            },
+            {
+              "name": "United Kingdom",
+              "value": 10,
+              "id": "1et3zhr79m9y7fsqh"
+            },
+            {
+              "name": "Australia",
+              "value": 9,
+              "id": "1et3zhr79m9y7fsqi"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsq7"
+        },
+        {
+          "lensType": "time",
+          "type": "chart",
+          "chartType": "line",
+          "title": "Healthcare expenditure as percent of GDP over time",
+          "yAxisLabel": null,
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "USA",
+              "values": [
+                {
+                  "year": 1970,
+                  "value": 6.2,
+                  "id": "1et3zhr79m9y7fsql"
+                },
+                {
+                  "year": 1971,
+                  "value": 6.4,
+                  "id": "1et3zhr79m9y7fsqm"
+                },
+                {
+                  "year": 1972,
+                  "value": 6.5,
+                  "id": "1et3zhr79m9y7fsqn"
+                },
+                {
+                  "year": 1973,
+                  "value": 6.5,
+                  "id": "1et3zhr79m9y7fsqo"
+                },
+                {
+                  "year": 1974,
+                  "value": 6.9,
+                  "id": "1et3zhr79m9y7fsqp"
+                },
+                {
+                  "year": 1975,
+                  "value": 7.2,
+                  "id": "1et3zhr79m9y7fsqq"
+                },
+                {
+                  "year": 1976,
+                  "value": 7.4,
+                  "id": "1et3zhr79m9y7fsqr"
+                },
+                {
+                  "year": 1977,
+                  "value": 7.7,
+                  "id": "1et3zhr79m9y7fsqs"
+                },
+                {
+                  "year": 1978,
+                  "value": 7.7,
+                  "id": "1et3zhr79m9y7fsqt"
+                },
+                {
+                  "year": 1979,
+                  "value": 7.8,
+                  "id": "1et3zhr79m9y7fsqu"
+                },
+                {
+                  "year": 1980,
+                  "value": 8.2,
+                  "id": "1et3zhr79m9y7fsqv"
+                },
+                {
+                  "year": 1981,
+                  "value": 8.5,
+                  "id": "1et3zhr79m9y7fsqw"
+                },
+                {
+                  "year": 1982,
+                  "value": 9.2,
+                  "id": "1et3zhr79m9y7fsqx"
+                },
+                {
+                  "year": 1983,
+                  "value": 9.3,
+                  "id": "1et3zhr79m9y7fsqy"
+                },
+                {
+                  "year": 1984,
+                  "value": 9.3,
+                  "id": "1et3zhr79m9y7fsqz"
+                },
+                {
+                  "year": 1985,
+                  "value": 9.5,
+                  "id": "1et3zhr79m9y7fsr0"
+                },
+                {
+                  "year": 1986,
+                  "value": 9.7,
+                  "id": "1et3zhr79m9y7fsr1"
+                },
+                {
+                  "year": 1987,
+                  "value": 9.9,
+                  "id": "1et3zhr79m9y7fsr2"
+                },
+                {
+                  "year": 1988,
+                  "value": 10.3,
+                  "id": "1et3zhr79m9y7fsr3"
+                },
+                {
+                  "year": 1989,
+                  "value": 10.7,
+                  "id": "1et3zhr79m9y7fsr4"
+                },
+                {
+                  "year": 1990,
+                  "value": 11.3,
+                  "id": "1et3zhr79m9y7fsr5"
+                },
+                {
+                  "year": 1991,
+                  "value": 12,
+                  "id": "1et3zhr79m9y7fsr6"
+                },
+                {
+                  "year": 1992,
+                  "value": 12.3,
+                  "id": "1et3zhr79m9y7fsr7"
+                },
+                {
+                  "year": 1993,
+                  "value": 12.5,
+                  "id": "1et3zhr79m9y7fsr8"
+                },
+                {
+                  "year": 1994,
+                  "value": 12.4,
+                  "id": "1et3zhr79m9y7fsr9"
+                },
+                {
+                  "year": 1995,
+                  "value": 12.5,
+                  "id": "1et3zhr79m9y7fsra"
+                },
+                {
+                  "year": 1996,
+                  "value": 12.5,
+                  "id": "1et3zhr79m9y7fsrb"
+                },
+                {
+                  "year": 1997,
+                  "value": 12.4,
+                  "id": "1et3zhr79m9y7fsrc"
+                },
+                {
+                  "year": 1998,
+                  "value": 12.4,
+                  "id": "1et3zhr79m9y7fsrd"
+                },
+                {
+                  "year": 1999,
+                  "value": 12.4,
+                  "id": "1et3zhr79m9y7fsre"
+                },
+                {
+                  "year": 2000,
+                  "value": 12.5,
+                  "id": "1et3zhr79m9y7fsrf"
+                },
+                {
+                  "year": 2001,
+                  "value": 13.2,
+                  "id": "1et3zhr79m9y7fsrg"
+                },
+                {
+                  "year": 2002,
+                  "value": 14,
+                  "id": "1et3zhr79m9y7fsrh"
+                },
+                {
+                  "year": 2003,
+                  "value": 14.5,
+                  "id": "1et3zhr79m9y7fsri"
+                },
+                {
+                  "year": 2004,
+                  "value": 14.6,
+                  "id": "1et3zhr79m9y7fsrj"
+                },
+                {
+                  "year": 2005,
+                  "value": 14.6,
+                  "id": "1et3zhr79m9y7fsrk"
+                },
+                {
+                  "year": 2006,
+                  "value": 14.7,
+                  "id": "1et3zhr79m9y7fsrl"
+                },
+                {
+                  "year": 2007,
+                  "value": 14.9,
+                  "id": "1et3zhr79m9y7fsrm"
+                },
+                {
+                  "year": 2008,
+                  "value": 15.3,
+                  "id": "1et3zhr79m9y7fsrn"
+                },
+                {
+                  "year": 2009,
+                  "value": 16.3,
+                  "id": "1et3zhr79m9y7fsro"
+                },
+                {
+                  "year": 2010,
+                  "value": 16.4,
+                  "id": "1et3zhr79m9y7fsrp"
+                },
+                {
+                  "year": 2011,
+                  "value": 16.4,
+                  "id": "1et3zhr79m9y7fsrq"
+                },
+                {
+                  "year": 2012,
+                  "value": 16.3,
+                  "id": "1et3zhr79m9y7fsrr"
+                },
+                {
+                  "year": 2013,
+                  "value": 16.3,
+                  "id": "1et3zhr79m9y7fsrs"
+                },
+                {
+                  "year": 2014,
+                  "value": 16.4,
+                  "id": "1et3zhr79m9y7fsrt"
+                },
+                {
+                  "year": 2015,
+                  "value": 16.7,
+                  "id": "1et3zhr79m9y7fsru"
+                },
+                {
+                  "year": 2016,
+                  "value": 17.1,
+                  "id": "1et3zhr79m9y7fsrv"
+                },
+                {
+                  "year": 2017,
+                  "value": 17.1,
+                  "id": "1et3zhr79m9y7fsrw"
+                },
+                {
+                  "year": 2018,
+                  "value": 16.9,
+                  "id": "1et3zhr79m9y7fsrx"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsqk"
+            },
+            {
+              "label": "OECD Average",
+              "values": [
+                {
+                  "year": 2003,
+                  "value": 7.9,
+                  "id": "1et3zhr79m9y7fsrz"
+                },
+                {
+                  "year": 2004,
+                  "value": 7.9,
+                  "id": "1et3zhr79m9y7fss0"
+                },
+                {
+                  "year": 2005,
+                  "value": 8,
+                  "id": "1et3zhr79m9y7fss1"
+                },
+                {
+                  "year": 2006,
+                  "value": 7.9,
+                  "id": "1et3zhr79m9y7fss2"
+                },
+                {
+                  "year": 2007,
+                  "value": 7.9,
+                  "id": "1et3zhr79m9y7fss3"
+                },
+                {
+                  "year": 2008,
+                  "value": 8.2,
+                  "id": "1et3zhr79m9y7fss4"
+                },
+                {
+                  "year": 2009,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fss5"
+                },
+                {
+                  "year": 2010,
+                  "value": 8.7,
+                  "id": "1et3zhr79m9y7fss6"
+                },
+                {
+                  "year": 2011,
+                  "value": 8.7,
+                  "id": "1et3zhr79m9y7fss7"
+                },
+                {
+                  "year": 2012,
+                  "value": 8.7,
+                  "id": "1et3zhr79m9y7fss8"
+                },
+                {
+                  "year": 2013,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fss9"
+                },
+                {
+                  "year": 2014,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fssa"
+                },
+                {
+                  "year": 2015,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fssb"
+                },
+                {
+                  "year": 2016,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fssc"
+                },
+                {
+                  "year": 2017,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fssd"
+                },
+                {
+                  "year": 2018,
+                  "value": 8.8,
+                  "id": "1et3zhr79m9y7fsse"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsry"
+            }
+          ],
+          "id": "1et3zhr79m9y7fsqj"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsq6"
+    }
+  ],
+  "supportingIndicators": [
+    {
+      "title": "Life expectancy",
+      "citations": [
+        "OECD (2019), “Life expectancy at birth” (indicator), https://doi.org/10.1787/27e0fc9d-en (accessed on 11 September 2019)."
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "stat": 78.6,
+          "description": "years of life expectancy for Americans born in 2017",
+          "id": "1et3zhr79m9y7fssg"
+        },
+        {
+          "type": "chart",
+          "chartType": "line",
+          "title": null,
+          "yAxisLabel": "life expectancy (years)",
+          "xAxisLabel": null,
+          "values": [
+            {
+              "label": "USA",
+              "values": [
+                {
+                  "year": 1950,
+                  "value": 68.2,
+                  "id": "1et3zhr79m9y7fssj"
+                },
+                {
+                  "year": 1951,
+                  "value": 68.3,
+                  "id": "1et3zhr79m9y7fssk"
+                },
+                {
+                  "year": 1952,
+                  "value": 68.6,
+                  "id": "1et3zhr79m9y7fssl"
+                },
+                {
+                  "year": 1953,
+                  "value": 68.8,
+                  "id": "1et3zhr79m9y7fssm"
+                },
+                {
+                  "year": 1954,
+                  "value": 69.1,
+                  "id": "1et3zhr79m9y7fssn"
+                },
+                {
+                  "year": 1955,
+                  "value": 69.3,
+                  "id": "1et3zhr79m9y7fsso"
+                },
+                {
+                  "year": 1956,
+                  "value": 69.4,
+                  "id": "1et3zhr79m9y7fssp"
+                },
+                {
+                  "year": 1957,
+                  "value": 69.6,
+                  "id": "1et3zhr79m9y7fssq"
+                },
+                {
+                  "year": 1958,
+                  "value": 69.7,
+                  "id": "1et3zhr79m9y7fssr"
+                },
+                {
+                  "year": 1959,
+                  "value": 69.8,
+                  "id": "1et3zhr79m9y7fsss"
+                },
+                {
+                  "year": 1960,
+                  "value": 69.9,
+                  "id": "1et3zhr79m9y7fsst"
+                },
+                {
+                  "year": 1961,
+                  "value": 70.4,
+                  "id": "1et3zhr79m9y7fssu"
+                },
+                {
+                  "year": 1962,
+                  "value": 70.2,
+                  "id": "1et3zhr79m9y7fssv"
+                },
+                {
+                  "year": 1963,
+                  "value": 70,
+                  "id": "1et3zhr79m9y7fssw"
+                },
+                {
+                  "year": 1964,
+                  "value": 70.3,
+                  "id": "1et3zhr79m9y7fssx"
+                },
+                {
+                  "year": 1965,
+                  "value": 70.3,
+                  "id": "1et3zhr79m9y7fssy"
+                },
+                {
+                  "year": 1966,
+                  "value": 70.3,
+                  "id": "1et3zhr79m9y7fssz"
+                },
+                {
+                  "year": 1967,
+                  "value": 70.7,
+                  "id": "1et3zhr79m9y7fst0"
+                },
+                {
+                  "year": 1968,
+                  "value": 70.4,
+                  "id": "1et3zhr79m9y7fst1"
+                },
+                {
+                  "year": 1969,
+                  "value": 70.6,
+                  "id": "1et3zhr79m9y7fst2"
+                },
+                {
+                  "year": 1970,
+                  "value": 70.9,
+                  "id": "1et3zhr79m9y7fst3"
+                },
+                {
+                  "year": 1971,
+                  "value": 71.2,
+                  "id": "1et3zhr79m9y7fst4"
+                },
+                {
+                  "year": 1972,
+                  "value": 71.3,
+                  "id": "1et3zhr79m9y7fst5"
+                },
+                {
+                  "year": 1973,
+                  "value": 71.5,
+                  "id": "1et3zhr79m9y7fst6"
+                },
+                {
+                  "year": 1974,
+                  "value": 72.1,
+                  "id": "1et3zhr79m9y7fst7"
+                },
+                {
+                  "year": 1975,
+                  "value": 72.7,
+                  "id": "1et3zhr79m9y7fst8"
+                },
+                {
+                  "year": 1976,
+                  "value": 73,
+                  "id": "1et3zhr79m9y7fst9"
+                },
+                {
+                  "year": 1977,
+                  "value": 73.4,
+                  "id": "1et3zhr79m9y7fsta"
+                },
+                {
+                  "year": 1978,
+                  "value": 73.5,
+                  "id": "1et3zhr79m9y7fstb"
+                },
+                {
+                  "year": 1979,
+                  "value": 73.9,
+                  "id": "1et3zhr79m9y7fstc"
+                },
+                {
+                  "year": 1980,
+                  "value": 73.7,
+                  "id": "1et3zhr79m9y7fstd"
+                },
+                {
+                  "year": 1981,
+                  "value": 74.1,
+                  "id": "1et3zhr79m9y7fste"
+                },
+                {
+                  "year": 1982,
+                  "value": 74.5,
+                  "id": "1et3zhr79m9y7fstf"
+                },
+                {
+                  "year": 1983,
+                  "value": 74.6,
+                  "id": "1et3zhr79m9y7fstg"
+                },
+                {
+                  "year": 1984,
+                  "value": 74.7,
+                  "id": "1et3zhr79m9y7fsth"
+                },
+                {
+                  "year": 1985,
+                  "value": 74.7,
+                  "id": "1et3zhr79m9y7fsti"
+                },
+                {
+                  "year": 1986,
+                  "value": 74.7,
+                  "id": "1et3zhr79m9y7fstj"
+                },
+                {
+                  "year": 1987,
+                  "value": 74.9,
+                  "id": "1et3zhr79m9y7fstk"
+                },
+                {
+                  "year": 1988,
+                  "value": 74.9,
+                  "id": "1et3zhr79m9y7fstl"
+                },
+                {
+                  "year": 1989,
+                  "value": 75.1,
+                  "id": "1et3zhr79m9y7fstm"
+                },
+                {
+                  "year": 1990,
+                  "value": 75.3,
+                  "id": "1et3zhr79m9y7fstn"
+                },
+                {
+                  "year": 1991,
+                  "value": 75.5,
+                  "id": "1et3zhr79m9y7fsto"
+                },
+                {
+                  "year": 1992,
+                  "value": 75.7,
+                  "id": "1et3zhr79m9y7fstp"
+                },
+                {
+                  "year": 1993,
+                  "value": 75.5,
+                  "id": "1et3zhr79m9y7fstq"
+                },
+                {
+                  "year": 1994,
+                  "value": 75.7,
+                  "id": "1et3zhr79m9y7fstr"
+                },
+                {
+                  "year": 1995,
+                  "value": 75.7,
+                  "id": "1et3zhr79m9y7fsts"
+                },
+                {
+                  "year": 1996,
+                  "value": 76.1,
+                  "id": "1et3zhr79m9y7fstt"
+                },
+                {
+                  "year": 1997,
+                  "value": 76.5,
+                  "id": "1et3zhr79m9y7fstu"
+                },
+                {
+                  "year": 1998,
+                  "value": 76.7,
+                  "id": "1et3zhr79m9y7fstv"
+                },
+                {
+                  "year": 1999,
+                  "value": 76.7,
+                  "id": "1et3zhr79m9y7fstw"
+                },
+                {
+                  "year": 2000,
+                  "value": 76.7,
+                  "id": "1et3zhr79m9y7fstx"
+                },
+                {
+                  "year": 2001,
+                  "value": 76.9,
+                  "id": "1et3zhr79m9y7fsty"
+                },
+                {
+                  "year": 2002,
+                  "value": 77,
+                  "id": "1et3zhr79m9y7fstz"
+                },
+                {
+                  "year": 2003,
+                  "value": 77.1,
+                  "id": "1et3zhr79m9y7fsu0"
+                },
+                {
+                  "year": 2004,
+                  "value": 77.6,
+                  "id": "1et3zhr79m9y7fsu1"
+                },
+                {
+                  "year": 2005,
+                  "value": 77.6,
+                  "id": "1et3zhr79m9y7fsu2"
+                },
+                {
+                  "year": 2006,
+                  "value": 77.8,
+                  "id": "1et3zhr79m9y7fsu3"
+                },
+                {
+                  "year": 2007,
+                  "value": 78.1,
+                  "id": "1et3zhr79m9y7fsu4"
+                },
+                {
+                  "year": 2008,
+                  "value": 78.1,
+                  "id": "1et3zhr79m9y7fsu5"
+                },
+                {
+                  "year": 2009,
+                  "value": 78.5,
+                  "id": "1et3zhr79m9y7fsu6"
+                },
+                {
+                  "year": 2010,
+                  "value": 78.6,
+                  "id": "1et3zhr79m9y7fsu7"
+                },
+                {
+                  "year": 2011,
+                  "value": 78.7,
+                  "id": "1et3zhr79m9y7fsu8"
+                },
+                {
+                  "year": 2012,
+                  "value": 78.8,
+                  "id": "1et3zhr79m9y7fsu9"
+                },
+                {
+                  "year": 2013,
+                  "value": 78.8,
+                  "id": "1et3zhr79m9y7fsua"
+                },
+                {
+                  "year": 2014,
+                  "value": 78.9,
+                  "id": "1et3zhr79m9y7fsub"
+                },
+                {
+                  "year": 2015,
+                  "value": 78.7,
+                  "id": "1et3zhr79m9y7fsuc"
+                },
+                {
+                  "year": 2016,
+                  "value": 78.7,
+                  "id": "1et3zhr79m9y7fsud"
+                },
+                {
+                  "year": 2017,
+                  "value": 78.9,
+                  "id": "1et3zhr79m9y7fsue"
+                }
+              ],
+              "id": "1et3zhr79m9y7fssi"
+            },
+            {
+              "label": "Comparable Country Average",
+              "values": [
+                {
+                  "year": 1980,
+                  "value": 74.5,
+                  "id": "1et3zhr79m9y7fsug"
+                },
+                {
+                  "year": 1981,
+                  "value": 74.8,
+                  "id": "1et3zhr79m9y7fsuh"
+                },
+                {
+                  "year": 1982,
+                  "value": 75,
+                  "id": "1et3zhr79m9y7fsui"
+                },
+                {
+                  "year": 1983,
+                  "value": 75.2,
+                  "id": "1et3zhr79m9y7fsuj"
+                },
+                {
+                  "year": 1984,
+                  "value": 75.6,
+                  "id": "1et3zhr79m9y7fsuk"
+                },
+                {
+                  "year": 1985,
+                  "value": 75.7,
+                  "id": "1et3zhr79m9y7fsul"
+                },
+                {
+                  "year": 1986,
+                  "value": 76,
+                  "id": "1et3zhr79m9y7fsum"
+                },
+                {
+                  "year": 1987,
+                  "value": 76.4,
+                  "id": "1et3zhr79m9y7fsun"
+                },
+                {
+                  "year": 1988,
+                  "value": 76.5,
+                  "id": "1et3zhr79m9y7fsuo"
+                },
+                {
+                  "year": 1989,
+                  "value": 76.7,
+                  "id": "1et3zhr79m9y7fsup"
+                },
+                {
+                  "year": 1990,
+                  "value": 76.8,
+                  "id": "1et3zhr79m9y7fsuq"
+                },
+                {
+                  "year": 1991,
+                  "value": 77,
+                  "id": "1et3zhr79m9y7fsur"
+                },
+                {
+                  "year": 1992,
+                  "value": 77.3,
+                  "id": "1et3zhr79m9y7fsus"
+                },
+                {
+                  "year": 1993,
+                  "value": 77.4,
+                  "id": "1et3zhr79m9y7fsut"
+                },
+                {
+                  "year": 1994,
+                  "value": 77.7,
+                  "id": "1et3zhr79m9y7fsuu"
+                },
+                {
+                  "year": 1995,
+                  "value": 77.8,
+                  "id": "1et3zhr79m9y7fsuv"
+                },
+                {
+                  "year": 1996,
+                  "value": 78.1,
+                  "id": "1et3zhr79m9y7fsuw"
+                },
+                {
+                  "year": 1997,
+                  "value": 78.4,
+                  "id": "1et3zhr79m9y7fsux"
+                },
+                {
+                  "year": 1998,
+                  "value": 78.6,
+                  "id": "1et3zhr79m9y7fsuy"
+                },
+                {
+                  "year": 1999,
+                  "value": 78.7,
+                  "id": "1et3zhr79m9y7fsuz"
+                },
+                {
+                  "year": 2000,
+                  "value": 79,
+                  "id": "1et3zhr79m9y7fsv0"
+                },
+                {
+                  "year": 2001,
+                  "value": 79.3,
+                  "id": "1et3zhr79m9y7fsv1"
+                },
+                {
+                  "year": 2002,
+                  "value": 79.4,
+                  "id": "1et3zhr79m9y7fsv2"
+                },
+                {
+                  "year": 2003,
+                  "value": 79.5,
+                  "id": "1et3zhr79m9y7fsv3"
+                },
+                {
+                  "year": 2004,
+                  "value": 80,
+                  "id": "1et3zhr79m9y7fsv4"
+                },
+                {
+                  "year": 2005,
+                  "value": 80.2,
+                  "id": "1et3zhr79m9y7fsv5"
+                },
+                {
+                  "year": 2006,
+                  "value": 80.6,
+                  "id": "1et3zhr79m9y7fsv6"
+                },
+                {
+                  "year": 2007,
+                  "value": 80.8,
+                  "id": "1et3zhr79m9y7fsv7"
+                },
+                {
+                  "year": 2008,
+                  "value": 81,
+                  "id": "1et3zhr79m9y7fsv8"
+                },
+                {
+                  "year": 2009,
+                  "value": 81.2,
+                  "id": "1et3zhr79m9y7fsv9"
+                },
+                {
+                  "year": 2010,
+                  "value": 81.4,
+                  "id": "1et3zhr79m9y7fsva"
+                },
+                {
+                  "year": 2011,
+                  "value": 81.6,
+                  "id": "1et3zhr79m9y7fsvb"
+                },
+                {
+                  "year": 2012,
+                  "value": 81.6,
+                  "id": "1et3zhr79m9y7fsvc"
+                },
+                {
+                  "year": 2013,
+                  "value": 81.8,
+                  "id": "1et3zhr79m9y7fsvd"
+                },
+                {
+                  "year": 2014,
+                  "value": 82.2,
+                  "id": "1et3zhr79m9y7fsve"
+                },
+                {
+                  "year": 2015,
+                  "value": 82,
+                  "id": "1et3zhr79m9y7fsvf"
+                },
+                {
+                  "year": 2016,
+                  "value": 82.2,
+                  "id": "1et3zhr79m9y7fsvg"
+                }
+              ],
+              "id": "1et3zhr79m9y7fsuf"
+            }
+          ],
+          "id": "1et3zhr79m9y7fssh"
+        }
+      ],
+      "id": "1et3zhr79m9y7fssf"
+    },
+    {
+      "title": "Related topics",
+      "hide": true,
+      "indicators": [
+        {
+          "type": "link",
+          "text": "Insurance coverage",
+          "link": "#",
+          "id": "1et3zhr79m9y7fsvi"
+        },
+        {
+          "type": "link",
+          "text": "Poverty",
+          "link": "#",
+          "id": "1et3zhr79m9y7fsvj"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsvh"
+    },
+    {
+      "title": "Patient financial impact",
+      "citations": [
+        "S. Hayes, S. Collins, and D. Radley. “How Much U.S. Households with Employer Insurance Spend on Premiums and Out-of-Pocket Costs: A State-by-State Look.” <em>The Commonwealth Fund</em>, May 23, 2019. hhttps://www.commonwealthfund.org/publications/issue-briefs/2019/may/how-much-us-households-employer-insurance-spend-premiums-out-of-pocket",
+        "“Consumer Expenditures, 2018.” <em>Bureau of Labor Statistics</em>. https://www.bls.gov/news.release/cesan.nr0.htm"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "abbreviation": "%",
+          "stat": 16,
+          "description": "non-elderly adults had difficulty paying medical bills in 2017",
+          "id": "1et3zhr79m9y7fsvl"
+        },
+        {
+          "type": "stat",
+          "prefix": "$",
+          "abbreviation": "k",
+          "stat": 4.9,
+          "description": "median household expenditure on healthcare in 2017",
+          "id": "1et3zhr79m9y7fsvm"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsvk"
+    },
+    {
+      "title": "Investment in research",
+      "citations": [
+        "“US Medical Health Research Spending on the Rise, But For How Long?.” <em>Research America</em>, Nov 15, 2017. https://www.researchamerica.org/news-events/news/us-medical-health-research-spending-rise-how-long"
+      ],
+      "indicators": [
+        {
+          "type": "stat",
+          "prefix": "$",
+          "abbreviation": "B",
+          "stat": 172,
+          "description": "spent on medical and health R&D in 2016",
+          "id": "1et3zhr79m9y7fsvo"
+        }
+      ],
+      "id": "1et3zhr79m9y7fsvn"
+    }
+  ],
+  "id": "1et3zhr79m9y7fsnw"
+}
